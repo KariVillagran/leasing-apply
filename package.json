@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "NODE_ENV=test nyc --reporter=text-summary mocha --recursive 'test/**/*.test.js' --exit --timeout 9990000",
+    "fake-db": "node libs/createDb.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/KariVillagran/leasing-apply/issues"
   },
-  "homepage": "https://github.com/KariVillagran/leasing-apply#readme"
+  "homepage": "https://github.com/KariVillagran/leasing-apply#readme",
+  "dependencies": {
+    "rfr": "^1.2.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "faker": "^4.1.0",
+    "half-faked": "^1.0.0",
+    "mocha": "^5.2.0",
+    "nyc": "^14.1.1"
+  }
 }
