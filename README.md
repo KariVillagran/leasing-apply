@@ -24,3 +24,20 @@ To run the test commands, you must execute the following in the terminal
 npm test
 ```
 
+# Reports/Analytics
+If you want to execute the functions via terminal, you can use the following option:
+Calculate real profit
+```
+./scripts/profit.js --portafolio=89522 --startDate=20180101 --endDate=20180101
+```
+Calculate ideal profit
+```
+./scripts/idealProfit.js --portafolio=89522 --startDate=20180101 --endDate=20180101 
+```
+calculate non-payment percentage
+```
+./scripts/noPaymentPercent.js --portafolio=89522 --startDate=20180101 --endDate=20180101 
+```
+
+
+
