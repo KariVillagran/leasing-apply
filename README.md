@@ -12,11 +12,13 @@ Execute the following commands:
 ```
 npm i
 ```
-
+## IMPORTANT
 This project has a json file that emulates a db, if you want to create a new data file, you can execute the command:
  ```
 npm run fake-db
 ```
+But, **It is not necessary to run to test the project from your git cloning**.
+
 
 # Test
 To run the test commands, you must execute the following in the terminal
