@@ -1,0 +1,7932 @@
+[
+    {
+      "id": 89522,
+      "properties": [
+        {
+          "id": 34351,
+          "propertyName": "Lilla",
+          "payments": [
+            {
+              "id": 10480,
+              "income": 0,
+              "cost": 13,
+              "createdAt": 20180101
+            },
+            {
+              "id": 99955,
+              "income": 56,
+              "cost": 3,
+              "createdAt": 20180201
+            },
+            {
+              "id": 4344,
+              "income": 74,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 12006,
+              "income": 54,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 50841,
+              "income": 70,
+              "cost": 3,
+              "createdAt": 20180501
+            },
+            {
+              "id": 53546,
+              "income": 98,
+              "cost": 2,
+              "createdAt": 20180601
+            },
+            {
+              "id": 65557,
+              "income": 35,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 9939,
+              "income": 82,
+              "cost": 4,
+              "createdAt": 20180801
+            },
+            {
+              "id": 69178,
+              "income": 40,
+              "cost": 12,
+              "createdAt": 20180901
+            },
+            {
+              "id": 89816,
+              "income": 30,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 14445,
+              "income": 96,
+              "cost": 10,
+              "createdAt": 20181101
+            },
+            {
+              "id": 89284,
+              "income": 89,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 55012,
+          "propertyName": "Fiona",
+          "payments": [
+            {
+              "id": 6433,
+              "income": 0,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 93268,
+              "income": 53,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 93647,
+              "income": 80,
+              "cost": 19,
+              "createdAt": 20180301
+            },
+            {
+              "id": 75125,
+              "income": 32,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 91444,
+              "income": 46,
+              "cost": 11,
+              "createdAt": 20180501
+            },
+            {
+              "id": 35947,
+              "income": 72,
+              "cost": 8,
+              "createdAt": 20180601
+            },
+            {
+              "id": 57005,
+              "income": 87,
+              "cost": 11,
+              "createdAt": 20180701
+            },
+            {
+              "id": 11575,
+              "income": 88,
+              "cost": 3,
+              "createdAt": 20180801
+            },
+            {
+              "id": 1712,
+              "income": 51,
+              "cost": 18,
+              "createdAt": 20180901
+            },
+            {
+              "id": 12832,
+              "income": 64,
+              "cost": 10,
+              "createdAt": 20181001
+            },
+            {
+              "id": 9501,
+              "income": 73,
+              "cost": 12,
+              "createdAt": 20181101
+            },
+            {
+              "id": 97929,
+              "income": 34,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 58412,
+          "propertyName": "Keegan",
+          "payments": [
+            {
+              "id": 67146,
+              "income": 88,
+              "cost": 3,
+              "createdAt": 20180101
+            },
+            {
+              "id": 2744,
+              "income": 61,
+              "cost": 1,
+              "createdAt": 20180201
+            },
+            {
+              "id": 71370,
+              "income": 91,
+              "cost": 16,
+              "createdAt": 20180301
+            },
+            {
+              "id": 51612,
+              "income": 85,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 83933,
+              "income": 28,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 67969,
+              "income": 29,
+              "cost": 9,
+              "createdAt": 20180601
+            },
+            {
+              "id": 25547,
+              "income": 56,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 34075,
+              "income": 83,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 25371,
+              "income": 46,
+              "cost": 14,
+              "createdAt": 20180901
+            },
+            {
+              "id": 49766,
+              "income": 34,
+              "cost": 10,
+              "createdAt": 20181001
+            },
+            {
+              "id": 53039,
+              "income": 26,
+              "cost": 7,
+              "createdAt": 20181101
+            },
+            {
+              "id": 2201,
+              "income": 63,
+              "cost": 17,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 81766,
+          "propertyName": "Vincent",
+          "payments": [
+            {
+              "id": 898,
+              "income": 23,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 91971,
+              "income": 82,
+              "cost": 8,
+              "createdAt": 20180201
+            },
+            {
+              "id": 87983,
+              "income": 41,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 621,
+              "income": 79,
+              "cost": 6,
+              "createdAt": 20180401
+            },
+            {
+              "id": 58916,
+              "income": 25,
+              "cost": 9,
+              "createdAt": 20180501
+            },
+            {
+              "id": 75727,
+              "income": 52,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 53396,
+              "income": 22,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 67800,
+              "income": 41,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 42305,
+              "income": 23,
+              "cost": 15,
+              "createdAt": 20180901
+            },
+            {
+              "id": 76515,
+              "income": 76,
+              "cost": 16,
+              "createdAt": 20181001
+            },
+            {
+              "id": 92355,
+              "income": 85,
+              "cost": 5,
+              "createdAt": 20181101
+            },
+            {
+              "id": 64480,
+              "income": 76,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 11001,
+          "propertyName": "Kamren",
+          "payments": [
+            {
+              "id": 17703,
+              "income": 38,
+              "cost": 6,
+              "createdAt": 20180101
+            },
+            {
+              "id": 22182,
+              "income": 26,
+              "cost": 10,
+              "createdAt": 20180201
+            },
+            {
+              "id": 56110,
+              "income": 39,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 47258,
+              "income": 73,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 43359,
+              "income": 46,
+              "cost": 14,
+              "createdAt": 20180501
+            },
+            {
+              "id": 10863,
+              "income": 94,
+              "cost": 3,
+              "createdAt": 20180601
+            },
+            {
+              "id": 63917,
+              "income": 96,
+              "cost": 10,
+              "createdAt": 20180701
+            },
+            {
+              "id": 74749,
+              "income": 44,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 64927,
+              "income": 32,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 417,
+              "income": 84,
+              "cost": 19,
+              "createdAt": 20181001
+            },
+            {
+              "id": 8786,
+              "income": 33,
+              "cost": 4,
+              "createdAt": 20181101
+            },
+            {
+              "id": 51654,
+              "income": 59,
+              "cost": 18,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 77415,
+          "propertyName": "Antonia",
+          "payments": [
+            {
+              "id": 77927,
+              "income": 36,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 21856,
+              "income": 76,
+              "cost": 2,
+              "createdAt": 20180201
+            },
+            {
+              "id": 61448,
+              "income": 33,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 96613,
+              "income": 21,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 82624,
+              "income": 55,
+              "cost": 7,
+              "createdAt": 20180501
+            },
+            {
+              "id": 71899,
+              "income": 82,
+              "cost": 10,
+              "createdAt": 20180601
+            },
+            {
+              "id": 6022,
+              "income": 28,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 33420,
+              "income": 79,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 44675,
+              "income": 42,
+              "cost": 1,
+              "createdAt": 20180901
+            },
+            {
+              "id": 38734,
+              "income": 98,
+              "cost": 15,
+              "createdAt": 20181001
+            },
+            {
+              "id": 98883,
+              "income": 99,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 39381,
+              "income": 22,
+              "cost": 2,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 61425,
+          "propertyName": "Benny",
+          "payments": [
+            {
+              "id": 53890,
+              "income": 93,
+              "cost": 6,
+              "createdAt": 20180101
+            },
+            {
+              "id": 49238,
+              "income": 97,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 59546,
+              "income": 57,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 10313,
+              "income": 73,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 69323,
+              "income": 85,
+              "cost": 10,
+              "createdAt": 20180501
+            },
+            {
+              "id": 94252,
+              "income": 61,
+              "cost": 6,
+              "createdAt": 20180601
+            },
+            {
+              "id": 55866,
+              "income": 93,
+              "cost": 20,
+              "createdAt": 20180701
+            },
+            {
+              "id": 1597,
+              "income": 65,
+              "cost": 13,
+              "createdAt": 20180801
+            },
+            {
+              "id": 62620,
+              "income": 30,
+              "cost": 5,
+              "createdAt": 20180901
+            },
+            {
+              "id": 64223,
+              "income": 87,
+              "cost": 3,
+              "createdAt": 20181001
+            },
+            {
+              "id": 89439,
+              "income": 28,
+              "cost": 11,
+              "createdAt": 20181101
+            },
+            {
+              "id": 88473,
+              "income": 26,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 29669,
+          "propertyName": "Gregory",
+          "payments": [
+            {
+              "id": 27288,
+              "income": 59,
+              "cost": 18,
+              "createdAt": 20180101
+            },
+            {
+              "id": 90981,
+              "income": 27,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 56236,
+              "income": 91,
+              "cost": 6,
+              "createdAt": 20180301
+            },
+            {
+              "id": 87274,
+              "income": 51,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 97788,
+              "income": 78,
+              "cost": 6,
+              "createdAt": 20180501
+            },
+            {
+              "id": 6565,
+              "income": 46,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 71331,
+              "income": 83,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 99343,
+              "income": 66,
+              "cost": 1,
+              "createdAt": 20180801
+            },
+            {
+              "id": 97828,
+              "income": 37,
+              "cost": 8,
+              "createdAt": 20180901
+            },
+            {
+              "id": 14922,
+              "income": 24,
+              "cost": 14,
+              "createdAt": 20181001
+            },
+            {
+              "id": 12611,
+              "income": 73,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 41564,
+              "income": 95,
+              "cost": 3,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 52100,
+          "propertyName": "Toney",
+          "payments": [
+            {
+              "id": 59363,
+              "income": 21,
+              "cost": 10,
+              "createdAt": 20180101
+            },
+            {
+              "id": 49108,
+              "income": 21,
+              "cost": 7,
+              "createdAt": 20180201
+            },
+            {
+              "id": 92662,
+              "income": 48,
+              "cost": 14,
+              "createdAt": 20180301
+            },
+            {
+              "id": 6663,
+              "income": 51,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 17107,
+              "income": 67,
+              "cost": 1,
+              "createdAt": 20180501
+            },
+            {
+              "id": 73539,
+              "income": 47,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 37956,
+              "income": 55,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 44587,
+              "income": 56,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 38898,
+              "income": 31,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 64977,
+              "income": 73,
+              "cost": 11,
+              "createdAt": 20181001
+            },
+            {
+              "id": 48621,
+              "income": 30,
+              "cost": 12,
+              "createdAt": 20181101
+            },
+            {
+              "id": 30489,
+              "income": 33,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 64603,
+          "propertyName": "Lazaro",
+          "payments": [
+            {
+              "id": 45037,
+              "income": 28,
+              "cost": 13,
+              "createdAt": 20180101
+            },
+            {
+              "id": 66934,
+              "income": 78,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 97124,
+              "income": 89,
+              "cost": 17,
+              "createdAt": 20180301
+            },
+            {
+              "id": 76653,
+              "income": 68,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 42944,
+              "income": 26,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 64112,
+              "income": 97,
+              "cost": 3,
+              "createdAt": 20180601
+            },
+            {
+              "id": 76017,
+              "income": 90,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 72879,
+              "income": 74,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 82724,
+              "income": 45,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 22903,
+              "income": 31,
+              "cost": 11,
+              "createdAt": 20181001
+            },
+            {
+              "id": 10289,
+              "income": 65,
+              "cost": 10,
+              "createdAt": 20181101
+            },
+            {
+              "id": 92732,
+              "income": 80,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 69411,
+          "propertyName": "Nettie",
+          "payments": [
+            {
+              "id": 13057,
+              "income": 98,
+              "cost": 13,
+              "createdAt": 20180101
+            },
+            {
+              "id": 5782,
+              "income": 37,
+              "cost": 13,
+              "createdAt": 20180201
+            },
+            {
+              "id": 60012,
+              "income": 99,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 76342,
+              "income": 28,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 41866,
+              "income": 67,
+              "cost": 19,
+              "createdAt": 20180501
+            },
+            {
+              "id": 84274,
+              "income": 44,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 36300,
+              "income": 49,
+              "cost": 16,
+              "createdAt": 20180701
+            },
+            {
+              "id": 85644,
+              "income": 81,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 34533,
+              "income": 28,
+              "cost": 10,
+              "createdAt": 20180901
+            },
+            {
+              "id": 24886,
+              "income": 90,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 90612,
+              "income": 79,
+              "cost": 5,
+              "createdAt": 20181101
+            },
+            {
+              "id": 25065,
+              "income": 25,
+              "cost": 13,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 37647,
+          "propertyName": "Chase",
+          "payments": [
+            {
+              "id": 80039,
+              "income": 54,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 74865,
+              "income": 67,
+              "cost": 4,
+              "createdAt": 20180201
+            },
+            {
+              "id": 68384,
+              "income": 42,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 71969,
+              "income": 43,
+              "cost": 6,
+              "createdAt": 20180401
+            },
+            {
+              "id": 71447,
+              "income": 98,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 75316,
+              "income": 53,
+              "cost": 1,
+              "createdAt": 20180601
+            },
+            {
+              "id": 85280,
+              "income": 83,
+              "cost": 18,
+              "createdAt": 20180701
+            },
+            {
+              "id": 86515,
+              "income": 59,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 90402,
+              "income": 28,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 47466,
+              "income": 23,
+              "cost": 10,
+              "createdAt": 20181001
+            },
+            {
+              "id": 72538,
+              "income": 69,
+              "cost": 10,
+              "createdAt": 20181101
+            },
+            {
+              "id": 52977,
+              "income": 23,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 31473,
+          "propertyName": "Adalberto",
+          "payments": [
+            {
+              "id": 3089,
+              "income": 28,
+              "cost": 2,
+              "createdAt": 20180101
+            },
+            {
+              "id": 5624,
+              "income": 67,
+              "cost": 17,
+              "createdAt": 20180201
+            },
+            {
+              "id": 14097,
+              "income": 74,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 45172,
+              "income": 86,
+              "cost": 20,
+              "createdAt": 20180401
+            },
+            {
+              "id": 52093,
+              "income": 23,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 86758,
+              "income": 73,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 76925,
+              "income": 72,
+              "cost": 10,
+              "createdAt": 20180701
+            },
+            {
+              "id": 17008,
+              "income": 93,
+              "cost": 9,
+              "createdAt": 20180801
+            },
+            {
+              "id": 52702,
+              "income": 52,
+              "cost": 1,
+              "createdAt": 20180901
+            },
+            {
+              "id": 70959,
+              "income": 93,
+              "cost": 8,
+              "createdAt": 20181001
+            },
+            {
+              "id": 37629,
+              "income": 74,
+              "cost": 5,
+              "createdAt": 20181101
+            },
+            {
+              "id": 76952,
+              "income": 75,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 24558,
+          "propertyName": "Sarah",
+          "payments": [
+            {
+              "id": 24397,
+              "income": 79,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 57925,
+              "income": 85,
+              "cost": 19,
+              "createdAt": 20180201
+            },
+            {
+              "id": 22506,
+              "income": 71,
+              "cost": 17,
+              "createdAt": 20180301
+            },
+            {
+              "id": 56194,
+              "income": 83,
+              "cost": 15,
+              "createdAt": 20180401
+            },
+            {
+              "id": 5167,
+              "income": 74,
+              "cost": 8,
+              "createdAt": 20180501
+            },
+            {
+              "id": 75428,
+              "income": 68,
+              "cost": 7,
+              "createdAt": 20180601
+            },
+            {
+              "id": 55704,
+              "income": 27,
+              "cost": 15,
+              "createdAt": 20180701
+            },
+            {
+              "id": 48362,
+              "income": 35,
+              "cost": 12,
+              "createdAt": 20180801
+            },
+            {
+              "id": 24520,
+              "income": 93,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 87420,
+              "income": 36,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 62717,
+              "income": 69,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 99520,
+              "income": 43,
+              "cost": 14,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 73355,
+          "propertyName": "Gaetano",
+          "payments": [
+            {
+              "id": 66943,
+              "income": 81,
+              "cost": 17,
+              "createdAt": 20180101
+            },
+            {
+              "id": 25159,
+              "income": 88,
+              "cost": 10,
+              "createdAt": 20180201
+            },
+            {
+              "id": 20989,
+              "income": 78,
+              "cost": 15,
+              "createdAt": 20180301
+            },
+            {
+              "id": 27006,
+              "income": 53,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 74823,
+              "income": 74,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 49800,
+              "income": 47,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 21609,
+              "income": 80,
+              "cost": 10,
+              "createdAt": 20180701
+            },
+            {
+              "id": 69865,
+              "income": 34,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 48083,
+              "income": 40,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 76224,
+              "income": 100,
+              "cost": 19,
+              "createdAt": 20181001
+            },
+            {
+              "id": 58079,
+              "income": 55,
+              "cost": 14,
+              "createdAt": 20181101
+            },
+            {
+              "id": 17493,
+              "income": 86,
+              "cost": 11,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 45700,
+          "propertyName": "Florence",
+          "payments": [
+            {
+              "id": 43541,
+              "income": 34,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 61018,
+              "income": 71,
+              "cost": 9,
+              "createdAt": 20180201
+            },
+            {
+              "id": 48010,
+              "income": 58,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 37727,
+              "income": 83,
+              "cost": 11,
+              "createdAt": 20180401
+            },
+            {
+              "id": 78464,
+              "income": 48,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 37313,
+              "income": 78,
+              "cost": 9,
+              "createdAt": 20180601
+            },
+            {
+              "id": 81367,
+              "income": 89,
+              "cost": 1,
+              "createdAt": 20180701
+            },
+            {
+              "id": 53107,
+              "income": 90,
+              "cost": 15,
+              "createdAt": 20180801
+            },
+            {
+              "id": 21691,
+              "income": 37,
+              "cost": 14,
+              "createdAt": 20180901
+            },
+            {
+              "id": 8144,
+              "income": 68,
+              "cost": 4,
+              "createdAt": 20181001
+            },
+            {
+              "id": 93806,
+              "income": 58,
+              "cost": 2,
+              "createdAt": 20181101
+            },
+            {
+              "id": 79810,
+              "income": 92,
+              "cost": 2,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 89444,
+          "propertyName": "Helene",
+          "payments": [
+            {
+              "id": 7832,
+              "income": 34,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 37561,
+              "income": 39,
+              "cost": 7,
+              "createdAt": 20180201
+            },
+            {
+              "id": 62156,
+              "income": 96,
+              "cost": 6,
+              "createdAt": 20180301
+            },
+            {
+              "id": 50154,
+              "income": 21,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 80091,
+              "income": 26,
+              "cost": 11,
+              "createdAt": 20180501
+            },
+            {
+              "id": 15580,
+              "income": 79,
+              "cost": 17,
+              "createdAt": 20180601
+            },
+            {
+              "id": 36741,
+              "income": 29,
+              "cost": 4,
+              "createdAt": 20180701
+            },
+            {
+              "id": 94835,
+              "income": 67,
+              "cost": 7,
+              "createdAt": 20180801
+            },
+            {
+              "id": 47703,
+              "income": 64,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 4478,
+              "income": 99,
+              "cost": 5,
+              "createdAt": 20181001
+            },
+            {
+              "id": 84450,
+              "income": 91,
+              "cost": 8,
+              "createdAt": 20181101
+            },
+            {
+              "id": 60100,
+              "income": 28,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 76342,
+          "propertyName": "Rita",
+          "payments": [
+            {
+              "id": 91553,
+              "income": 69,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 40193,
+              "income": 38,
+              "cost": 17,
+              "createdAt": 20180201
+            },
+            {
+              "id": 9573,
+              "income": 23,
+              "cost": 20,
+              "createdAt": 20180301
+            },
+            {
+              "id": 34112,
+              "income": 42,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 73584,
+              "income": 95,
+              "cost": 17,
+              "createdAt": 20180501
+            },
+            {
+              "id": 11600,
+              "income": 41,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 40022,
+              "income": 61,
+              "cost": 12,
+              "createdAt": 20180701
+            },
+            {
+              "id": 28063,
+              "income": 54,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 52832,
+              "income": 65,
+              "cost": 11,
+              "createdAt": 20180901
+            },
+            {
+              "id": 36939,
+              "income": 21,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 73101,
+              "income": 96,
+              "cost": 5,
+              "createdAt": 20181101
+            },
+            {
+              "id": 54227,
+              "income": 85,
+              "cost": 16,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 56803,
+          "propertyName": "Korey",
+          "payments": [
+            {
+              "id": 31861,
+              "income": 82,
+              "cost": 1,
+              "createdAt": 20180101
+            },
+            {
+              "id": 39331,
+              "income": 21,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 8160,
+              "income": 74,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 49040,
+              "income": 57,
+              "cost": 12,
+              "createdAt": 20180401
+            },
+            {
+              "id": 90205,
+              "income": 29,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 92417,
+              "income": 91,
+              "cost": 10,
+              "createdAt": 20180601
+            },
+            {
+              "id": 79593,
+              "income": 94,
+              "cost": 7,
+              "createdAt": 20180701
+            },
+            {
+              "id": 59763,
+              "income": 85,
+              "cost": 15,
+              "createdAt": 20180801
+            },
+            {
+              "id": 97866,
+              "income": 58,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 61834,
+              "income": 45,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 95938,
+              "income": 62,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 81854,
+              "income": 55,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 31094,
+          "propertyName": "Mack",
+          "payments": [
+            {
+              "id": 31134,
+              "income": 58,
+              "cost": 1,
+              "createdAt": 20180101
+            },
+            {
+              "id": 5373,
+              "income": 40,
+              "cost": 15,
+              "createdAt": 20180201
+            },
+            {
+              "id": 96619,
+              "income": 23,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 93973,
+              "income": 24,
+              "cost": 17,
+              "createdAt": 20180401
+            },
+            {
+              "id": 81375,
+              "income": 54,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 43060,
+              "income": 62,
+              "cost": 3,
+              "createdAt": 20180601
+            },
+            {
+              "id": 53246,
+              "income": 50,
+              "cost": 3,
+              "createdAt": 20180701
+            },
+            {
+              "id": 62163,
+              "income": 56,
+              "cost": 14,
+              "createdAt": 20180801
+            },
+            {
+              "id": 54649,
+              "income": 53,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 71348,
+              "income": 78,
+              "cost": 15,
+              "createdAt": 20181001
+            },
+            {
+              "id": 3551,
+              "income": 77,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 28585,
+              "income": 77,
+              "cost": 9,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        }
+      ],
+      "createdAt": 20180101
+    },
+    {
+      "id": 58970,
+      "properties": [
+        {
+          "id": 48162,
+          "propertyName": "Janet",
+          "payments": [
+            {
+              "id": 97661,
+              "income": 25,
+              "cost": 17,
+              "createdAt": 20180101
+            },
+            {
+              "id": 75942,
+              "income": 89,
+              "cost": 19,
+              "createdAt": 20180201
+            },
+            {
+              "id": 64882,
+              "income": 30,
+              "cost": 4,
+              "createdAt": 20180301
+            },
+            {
+              "id": 89535,
+              "income": 88,
+              "cost": 1,
+              "createdAt": 20180401
+            },
+            {
+              "id": 30976,
+              "income": 77,
+              "cost": 5,
+              "createdAt": 20180501
+            },
+            {
+              "id": 91098,
+              "income": 57,
+              "cost": 16,
+              "createdAt": 20180601
+            },
+            {
+              "id": 4137,
+              "income": 70,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 49867,
+              "income": 58,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 59797,
+              "income": 89,
+              "cost": 16,
+              "createdAt": 20180901
+            },
+            {
+              "id": 37669,
+              "income": 94,
+              "cost": 3,
+              "createdAt": 20181001
+            },
+            {
+              "id": 13071,
+              "income": 48,
+              "cost": 6,
+              "createdAt": 20181101
+            },
+            {
+              "id": 75477,
+              "income": 73,
+              "cost": 16,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 57699,
+          "propertyName": "Jules",
+          "payments": [
+            {
+              "id": 93039,
+              "income": 96,
+              "cost": 6,
+              "createdAt": 20180101
+            },
+            {
+              "id": 4920,
+              "income": 54,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 58581,
+              "income": 68,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 66754,
+              "income": 63,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 66221,
+              "income": 93,
+              "cost": 8,
+              "createdAt": 20180501
+            },
+            {
+              "id": 35409,
+              "income": 33,
+              "cost": 16,
+              "createdAt": 20180601
+            },
+            {
+              "id": 34828,
+              "income": 67,
+              "cost": 2,
+              "createdAt": 20180701
+            },
+            {
+              "id": 58260,
+              "income": 48,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 23711,
+              "income": 99,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 6952,
+              "income": 56,
+              "cost": 15,
+              "createdAt": 20181001
+            },
+            {
+              "id": 50803,
+              "income": 80,
+              "cost": 8,
+              "createdAt": 20181101
+            },
+            {
+              "id": 21789,
+              "income": 31,
+              "cost": 16,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 65127,
+          "propertyName": "Armand",
+          "payments": [
+            {
+              "id": 10631,
+              "income": 34,
+              "cost": 10,
+              "createdAt": 20180101
+            },
+            {
+              "id": 41619,
+              "income": 79,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 22529,
+              "income": 33,
+              "cost": 5,
+              "createdAt": 20180301
+            },
+            {
+              "id": 77680,
+              "income": 68,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 90986,
+              "income": 33,
+              "cost": 19,
+              "createdAt": 20180501
+            },
+            {
+              "id": 10967,
+              "income": 46,
+              "cost": 20,
+              "createdAt": 20180601
+            },
+            {
+              "id": 46831,
+              "income": 74,
+              "cost": 6,
+              "createdAt": 20180701
+            },
+            {
+              "id": 29825,
+              "income": 27,
+              "cost": 3,
+              "createdAt": 20180801
+            },
+            {
+              "id": 7713,
+              "income": 25,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 51326,
+              "income": 95,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 44406,
+              "income": 43,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 31590,
+              "income": 98,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 9252,
+          "propertyName": "Eldridge",
+          "payments": [
+            {
+              "id": 9620,
+              "income": 93,
+              "cost": 7,
+              "createdAt": 20180101
+            },
+            {
+              "id": 70615,
+              "income": 71,
+              "cost": 9,
+              "createdAt": 20180201
+            },
+            {
+              "id": 91223,
+              "income": 56,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 82590,
+              "income": 29,
+              "cost": 12,
+              "createdAt": 20180401
+            },
+            {
+              "id": 31344,
+              "income": 68,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 64888,
+              "income": 40,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 21221,
+              "income": 32,
+              "cost": 8,
+              "createdAt": 20180701
+            },
+            {
+              "id": 89055,
+              "income": 46,
+              "cost": 13,
+              "createdAt": 20180801
+            },
+            {
+              "id": 26398,
+              "income": 36,
+              "cost": 15,
+              "createdAt": 20180901
+            },
+            {
+              "id": 32389,
+              "income": 99,
+              "cost": 5,
+              "createdAt": 20181001
+            },
+            {
+              "id": 66509,
+              "income": 59,
+              "cost": 15,
+              "createdAt": 20181101
+            },
+            {
+              "id": 56974,
+              "income": 63,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 77238,
+          "propertyName": "Earnest",
+          "payments": [
+            {
+              "id": 58781,
+              "income": 28,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 12152,
+              "income": 36,
+              "cost": 15,
+              "createdAt": 20180201
+            },
+            {
+              "id": 21482,
+              "income": 100,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 97615,
+              "income": 75,
+              "cost": 19,
+              "createdAt": 20180401
+            },
+            {
+              "id": 20003,
+              "income": 53,
+              "cost": 5,
+              "createdAt": 20180501
+            },
+            {
+              "id": 96471,
+              "income": 93,
+              "cost": 3,
+              "createdAt": 20180601
+            },
+            {
+              "id": 85274,
+              "income": 40,
+              "cost": 15,
+              "createdAt": 20180701
+            },
+            {
+              "id": 34195,
+              "income": 63,
+              "cost": 7,
+              "createdAt": 20180801
+            },
+            {
+              "id": 93133,
+              "income": 28,
+              "cost": 16,
+              "createdAt": 20180901
+            },
+            {
+              "id": 60186,
+              "income": 93,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 52095,
+              "income": 88,
+              "cost": 7,
+              "createdAt": 20181101
+            },
+            {
+              "id": 25554,
+              "income": 76,
+              "cost": 17,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 4600,
+          "propertyName": "Rollin",
+          "payments": [
+            {
+              "id": 21713,
+              "income": 91,
+              "cost": 9,
+              "createdAt": 20180101
+            },
+            {
+              "id": 72460,
+              "income": 26,
+              "cost": 16,
+              "createdAt": 20180201
+            },
+            {
+              "id": 83215,
+              "income": 31,
+              "cost": 11,
+              "createdAt": 20180301
+            },
+            {
+              "id": 43279,
+              "income": 41,
+              "cost": 7,
+              "createdAt": 20180401
+            },
+            {
+              "id": 70133,
+              "income": 25,
+              "cost": 7,
+              "createdAt": 20180501
+            },
+            {
+              "id": 66378,
+              "income": 65,
+              "cost": 13,
+              "createdAt": 20180601
+            },
+            {
+              "id": 43979,
+              "income": 77,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 57585,
+              "income": 22,
+              "cost": 2,
+              "createdAt": 20180801
+            },
+            {
+              "id": 79054,
+              "income": 81,
+              "cost": 18,
+              "createdAt": 20180901
+            },
+            {
+              "id": 57808,
+              "income": 44,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 85299,
+              "income": 64,
+              "cost": 8,
+              "createdAt": 20181101
+            },
+            {
+              "id": 78481,
+              "income": 48,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 21852,
+          "propertyName": "Barton",
+          "payments": [
+            {
+              "id": 77700,
+              "income": 69,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 62071,
+              "income": 82,
+              "cost": 6,
+              "createdAt": 20180201
+            },
+            {
+              "id": 86494,
+              "income": 82,
+              "cost": 17,
+              "createdAt": 20180301
+            },
+            {
+              "id": 22161,
+              "income": 31,
+              "cost": 7,
+              "createdAt": 20180401
+            },
+            {
+              "id": 81144,
+              "income": 21,
+              "cost": 8,
+              "createdAt": 20180501
+            },
+            {
+              "id": 45483,
+              "income": 29,
+              "cost": 3,
+              "createdAt": 20180601
+            },
+            {
+              "id": 99401,
+              "income": 30,
+              "cost": 20,
+              "createdAt": 20180701
+            },
+            {
+              "id": 55047,
+              "income": 81,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 61016,
+              "income": 87,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 34093,
+              "income": 66,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 98131,
+              "income": 69,
+              "cost": 12,
+              "createdAt": 20181101
+            },
+            {
+              "id": 61520,
+              "income": 28,
+              "cost": 13,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 6482,
+          "propertyName": "General",
+          "payments": [
+            {
+              "id": 7748,
+              "income": 52,
+              "cost": 10,
+              "createdAt": 20180101
+            },
+            {
+              "id": 59679,
+              "income": 87,
+              "cost": 13,
+              "createdAt": 20180201
+            },
+            {
+              "id": 16707,
+              "income": 22,
+              "cost": 4,
+              "createdAt": 20180301
+            },
+            {
+              "id": 61890,
+              "income": 59,
+              "cost": 18,
+              "createdAt": 20180401
+            },
+            {
+              "id": 97602,
+              "income": 65,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 34474,
+              "income": 75,
+              "cost": 8,
+              "createdAt": 20180601
+            },
+            {
+              "id": 71840,
+              "income": 67,
+              "cost": 7,
+              "createdAt": 20180701
+            },
+            {
+              "id": 44294,
+              "income": 78,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 99236,
+              "income": 53,
+              "cost": 11,
+              "createdAt": 20180901
+            },
+            {
+              "id": 44127,
+              "income": 94,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 17486,
+              "income": 81,
+              "cost": 7,
+              "createdAt": 20181101
+            },
+            {
+              "id": 99455,
+              "income": 47,
+              "cost": 20,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 25468,
+          "propertyName": "Eliane",
+          "payments": [
+            {
+              "id": 44993,
+              "income": 85,
+              "cost": 18,
+              "createdAt": 20180101
+            },
+            {
+              "id": 35751,
+              "income": 37,
+              "cost": 2,
+              "createdAt": 20180201
+            },
+            {
+              "id": 38404,
+              "income": 60,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 9025,
+              "income": 93,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 47277,
+              "income": 95,
+              "cost": 8,
+              "createdAt": 20180501
+            },
+            {
+              "id": 75174,
+              "income": 93,
+              "cost": 16,
+              "createdAt": 20180601
+            },
+            {
+              "id": 65748,
+              "income": 58,
+              "cost": 11,
+              "createdAt": 20180701
+            },
+            {
+              "id": 36285,
+              "income": 92,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 8379,
+              "income": 79,
+              "cost": 7,
+              "createdAt": 20180901
+            },
+            {
+              "id": 51338,
+              "income": 52,
+              "cost": 19,
+              "createdAt": 20181001
+            },
+            {
+              "id": 18763,
+              "income": 23,
+              "cost": 6,
+              "createdAt": 20181101
+            },
+            {
+              "id": 32979,
+              "income": 83,
+              "cost": 5,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 8665,
+          "propertyName": "Delfina",
+          "payments": [
+            {
+              "id": 78301,
+              "income": 22,
+              "cost": 1,
+              "createdAt": 20180101
+            },
+            {
+              "id": 9065,
+              "income": 98,
+              "cost": 17,
+              "createdAt": 20180201
+            },
+            {
+              "id": 75094,
+              "income": 76,
+              "cost": 15,
+              "createdAt": 20180301
+            },
+            {
+              "id": 83963,
+              "income": 55,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 44902,
+              "income": 31,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 47168,
+              "income": 99,
+              "cost": 3,
+              "createdAt": 20180601
+            },
+            {
+              "id": 57529,
+              "income": 55,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 19357,
+              "income": 28,
+              "cost": 18,
+              "createdAt": 20180801
+            },
+            {
+              "id": 70439,
+              "income": 72,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 16122,
+              "income": 81,
+              "cost": 20,
+              "createdAt": 20181001
+            },
+            {
+              "id": 81176,
+              "income": 51,
+              "cost": 19,
+              "createdAt": 20181101
+            },
+            {
+              "id": 48385,
+              "income": 66,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 41816,
+          "propertyName": "Michale",
+          "payments": [
+            {
+              "id": 46418,
+              "income": 45,
+              "cost": 9,
+              "createdAt": 20180101
+            },
+            {
+              "id": 12862,
+              "income": 43,
+              "cost": 3,
+              "createdAt": 20180201
+            },
+            {
+              "id": 96379,
+              "income": 22,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 72041,
+              "income": 87,
+              "cost": 8,
+              "createdAt": 20180401
+            },
+            {
+              "id": 84565,
+              "income": 23,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 4807,
+              "income": 63,
+              "cost": 7,
+              "createdAt": 20180601
+            },
+            {
+              "id": 77718,
+              "income": 60,
+              "cost": 9,
+              "createdAt": 20180701
+            },
+            {
+              "id": 18612,
+              "income": 72,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 65132,
+              "income": 41,
+              "cost": 9,
+              "createdAt": 20180901
+            },
+            {
+              "id": 19456,
+              "income": 46,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 34968,
+              "income": 48,
+              "cost": 14,
+              "createdAt": 20181101
+            },
+            {
+              "id": 18543,
+              "income": 83,
+              "cost": 3,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 5709,
+          "propertyName": "Madeline",
+          "payments": [
+            {
+              "id": 16217,
+              "income": 56,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 16828,
+              "income": 61,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 17208,
+              "income": 95,
+              "cost": 15,
+              "createdAt": 20180301
+            },
+            {
+              "id": 40471,
+              "income": 39,
+              "cost": 12,
+              "createdAt": 20180401
+            },
+            {
+              "id": 61719,
+              "income": 23,
+              "cost": 1,
+              "createdAt": 20180501
+            },
+            {
+              "id": 90143,
+              "income": 69,
+              "cost": 13,
+              "createdAt": 20180601
+            },
+            {
+              "id": 20756,
+              "income": 29,
+              "cost": 8,
+              "createdAt": 20180701
+            },
+            {
+              "id": 14742,
+              "income": 78,
+              "cost": 1,
+              "createdAt": 20180801
+            },
+            {
+              "id": 21572,
+              "income": 37,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 75258,
+              "income": 33,
+              "cost": 17,
+              "createdAt": 20181001
+            },
+            {
+              "id": 37633,
+              "income": 22,
+              "cost": 18,
+              "createdAt": 20181101
+            },
+            {
+              "id": 13022,
+              "income": 28,
+              "cost": 9,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 79782,
+          "propertyName": "Jasen",
+          "payments": [
+            {
+              "id": 54033,
+              "income": 30,
+              "cost": 11,
+              "createdAt": 20180101
+            },
+            {
+              "id": 65782,
+              "income": 81,
+              "cost": 11,
+              "createdAt": 20180201
+            },
+            {
+              "id": 76569,
+              "income": 31,
+              "cost": 16,
+              "createdAt": 20180301
+            },
+            {
+              "id": 17467,
+              "income": 38,
+              "cost": 14,
+              "createdAt": 20180401
+            },
+            {
+              "id": 85390,
+              "income": 63,
+              "cost": 7,
+              "createdAt": 20180501
+            },
+            {
+              "id": 52539,
+              "income": 58,
+              "cost": 15,
+              "createdAt": 20180601
+            },
+            {
+              "id": 27468,
+              "income": 72,
+              "cost": 17,
+              "createdAt": 20180701
+            },
+            {
+              "id": 37624,
+              "income": 55,
+              "cost": 18,
+              "createdAt": 20180801
+            },
+            {
+              "id": 95572,
+              "income": 69,
+              "cost": 3,
+              "createdAt": 20180901
+            },
+            {
+              "id": 75240,
+              "income": 77,
+              "cost": 14,
+              "createdAt": 20181001
+            },
+            {
+              "id": 218,
+              "income": 34,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 37938,
+              "income": 91,
+              "cost": 18,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 83758,
+          "propertyName": "Eva",
+          "payments": [
+            {
+              "id": 83083,
+              "income": 94,
+              "cost": 14,
+              "createdAt": 20180101
+            },
+            {
+              "id": 26679,
+              "income": 87,
+              "cost": 13,
+              "createdAt": 20180201
+            },
+            {
+              "id": 55024,
+              "income": 34,
+              "cost": 17,
+              "createdAt": 20180301
+            },
+            {
+              "id": 99251,
+              "income": 24,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 53633,
+              "income": 54,
+              "cost": 18,
+              "createdAt": 20180501
+            },
+            {
+              "id": 95513,
+              "income": 71,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 30696,
+              "income": 46,
+              "cost": 18,
+              "createdAt": 20180701
+            },
+            {
+              "id": 22156,
+              "income": 73,
+              "cost": 10,
+              "createdAt": 20180801
+            },
+            {
+              "id": 97180,
+              "income": 64,
+              "cost": 9,
+              "createdAt": 20180901
+            },
+            {
+              "id": 93640,
+              "income": 21,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 73038,
+              "income": 32,
+              "cost": 14,
+              "createdAt": 20181101
+            },
+            {
+              "id": 25608,
+              "income": 80,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 88817,
+          "propertyName": "Cullen",
+          "payments": [
+            {
+              "id": 99335,
+              "income": 100,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 45026,
+              "income": 24,
+              "cost": 11,
+              "createdAt": 20180201
+            },
+            {
+              "id": 38956,
+              "income": 81,
+              "cost": 11,
+              "createdAt": 20180301
+            },
+            {
+              "id": 75187,
+              "income": 36,
+              "cost": 12,
+              "createdAt": 20180401
+            },
+            {
+              "id": 72763,
+              "income": 79,
+              "cost": 10,
+              "createdAt": 20180501
+            },
+            {
+              "id": 7933,
+              "income": 20,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 1516,
+              "income": 97,
+              "cost": 1,
+              "createdAt": 20180701
+            },
+            {
+              "id": 5521,
+              "income": 59,
+              "cost": 12,
+              "createdAt": 20180801
+            },
+            {
+              "id": 73711,
+              "income": 71,
+              "cost": 3,
+              "createdAt": 20180901
+            },
+            {
+              "id": 11242,
+              "income": 23,
+              "cost": 13,
+              "createdAt": 20181001
+            },
+            {
+              "id": 55709,
+              "income": 77,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 90711,
+              "income": 66,
+              "cost": 14,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 93695,
+          "propertyName": "Paolo",
+          "payments": [
+            {
+              "id": 27534,
+              "income": 55,
+              "cost": 20,
+              "createdAt": 20180101
+            },
+            {
+              "id": 24443,
+              "income": 48,
+              "cost": 6,
+              "createdAt": 20180201
+            },
+            {
+              "id": 29497,
+              "income": 95,
+              "cost": 15,
+              "createdAt": 20180301
+            },
+            {
+              "id": 29346,
+              "income": 85,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 34077,
+              "income": 86,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 64277,
+              "income": 49,
+              "cost": 19,
+              "createdAt": 20180601
+            },
+            {
+              "id": 30766,
+              "income": 86,
+              "cost": 10,
+              "createdAt": 20180701
+            },
+            {
+              "id": 59277,
+              "income": 67,
+              "cost": 9,
+              "createdAt": 20180801
+            },
+            {
+              "id": 39022,
+              "income": 26,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 84470,
+              "income": 36,
+              "cost": 11,
+              "createdAt": 20181001
+            },
+            {
+              "id": 33946,
+              "income": 70,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 76653,
+              "income": 45,
+              "cost": 11,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 48844,
+          "propertyName": "Josephine",
+          "payments": [
+            {
+              "id": 92752,
+              "income": 94,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 51921,
+              "income": 37,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 80056,
+              "income": 74,
+              "cost": 3,
+              "createdAt": 20180301
+            },
+            {
+              "id": 1636,
+              "income": 98,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 62544,
+              "income": 36,
+              "cost": 14,
+              "createdAt": 20180501
+            },
+            {
+              "id": 59079,
+              "income": 79,
+              "cost": 10,
+              "createdAt": 20180601
+            },
+            {
+              "id": 38397,
+              "income": 73,
+              "cost": 4,
+              "createdAt": 20180701
+            },
+            {
+              "id": 59931,
+              "income": 83,
+              "cost": 7,
+              "createdAt": 20180801
+            },
+            {
+              "id": 28910,
+              "income": 23,
+              "cost": 16,
+              "createdAt": 20180901
+            },
+            {
+              "id": 63455,
+              "income": 48,
+              "cost": 5,
+              "createdAt": 20181001
+            },
+            {
+              "id": 72505,
+              "income": 47,
+              "cost": 5,
+              "createdAt": 20181101
+            },
+            {
+              "id": 49417,
+              "income": 63,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 63199,
+          "propertyName": "Christophe",
+          "payments": [
+            {
+              "id": 12873,
+              "income": 38,
+              "cost": 17,
+              "createdAt": 20180101
+            },
+            {
+              "id": 89670,
+              "income": 42,
+              "cost": 15,
+              "createdAt": 20180201
+            },
+            {
+              "id": 30073,
+              "income": 55,
+              "cost": 12,
+              "createdAt": 20180301
+            },
+            {
+              "id": 99920,
+              "income": 76,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 15854,
+              "income": 64,
+              "cost": 13,
+              "createdAt": 20180501
+            },
+            {
+              "id": 82568,
+              "income": 29,
+              "cost": 15,
+              "createdAt": 20180601
+            },
+            {
+              "id": 68166,
+              "income": 27,
+              "cost": 1,
+              "createdAt": 20180701
+            },
+            {
+              "id": 90615,
+              "income": 20,
+              "cost": 10,
+              "createdAt": 20180801
+            },
+            {
+              "id": 36810,
+              "income": 44,
+              "cost": 15,
+              "createdAt": 20180901
+            },
+            {
+              "id": 56678,
+              "income": 29,
+              "cost": 18,
+              "createdAt": 20181001
+            },
+            {
+              "id": 43823,
+              "income": 63,
+              "cost": 15,
+              "createdAt": 20181101
+            },
+            {
+              "id": 90969,
+              "income": 62,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 43468,
+          "propertyName": "Nyasia",
+          "payments": [
+            {
+              "id": 55595,
+              "income": 87,
+              "cost": 20,
+              "createdAt": 20180101
+            },
+            {
+              "id": 52207,
+              "income": 70,
+              "cost": 16,
+              "createdAt": 20180201
+            },
+            {
+              "id": 35894,
+              "income": 65,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 88498,
+              "income": 80,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 57774,
+              "income": 58,
+              "cost": 3,
+              "createdAt": 20180501
+            },
+            {
+              "id": 62363,
+              "income": 28,
+              "cost": 12,
+              "createdAt": 20180601
+            },
+            {
+              "id": 6757,
+              "income": 74,
+              "cost": 4,
+              "createdAt": 20180701
+            },
+            {
+              "id": 39437,
+              "income": 25,
+              "cost": 12,
+              "createdAt": 20180801
+            },
+            {
+              "id": 81612,
+              "income": 85,
+              "cost": 8,
+              "createdAt": 20180901
+            },
+            {
+              "id": 78077,
+              "income": 64,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 7278,
+              "income": 57,
+              "cost": 1,
+              "createdAt": 20181101
+            },
+            {
+              "id": 76776,
+              "income": 76,
+              "cost": 5,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 59809,
+          "propertyName": "Linnea",
+          "payments": [
+            {
+              "id": 39180,
+              "income": 62,
+              "cost": 18,
+              "createdAt": 20180101
+            },
+            {
+              "id": 33986,
+              "income": 25,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 51199,
+              "income": 95,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 16763,
+              "income": 75,
+              "cost": 17,
+              "createdAt": 20180401
+            },
+            {
+              "id": 54025,
+              "income": 75,
+              "cost": 3,
+              "createdAt": 20180501
+            },
+            {
+              "id": 94591,
+              "income": 61,
+              "cost": 20,
+              "createdAt": 20180601
+            },
+            {
+              "id": 59770,
+              "income": 97,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 99897,
+              "income": 34,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 48079,
+              "income": 25,
+              "cost": 7,
+              "createdAt": 20180901
+            },
+            {
+              "id": 96604,
+              "income": 70,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 56138,
+              "income": 90,
+              "cost": 1,
+              "createdAt": 20181101
+            },
+            {
+              "id": 85854,
+              "income": 98,
+              "cost": 2,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        }
+      ],
+      "createdAt": 20180101
+    },
+    {
+      "id": 31014,
+      "properties": [
+        {
+          "id": 64097,
+          "propertyName": "Lois",
+          "payments": [
+            {
+              "id": 54913,
+              "income": 68,
+              "cost": 9,
+              "createdAt": 20180101
+            },
+            {
+              "id": 78250,
+              "income": 43,
+              "cost": 4,
+              "createdAt": 20180201
+            },
+            {
+              "id": 20835,
+              "income": 34,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 65624,
+              "income": 83,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 85227,
+              "income": 39,
+              "cost": 2,
+              "createdAt": 20180501
+            },
+            {
+              "id": 30482,
+              "income": 94,
+              "cost": 19,
+              "createdAt": 20180601
+            },
+            {
+              "id": 33543,
+              "income": 58,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 19498,
+              "income": 92,
+              "cost": 14,
+              "createdAt": 20180801
+            },
+            {
+              "id": 11485,
+              "income": 96,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 81534,
+              "income": 52,
+              "cost": 16,
+              "createdAt": 20181001
+            },
+            {
+              "id": 39826,
+              "income": 83,
+              "cost": 1,
+              "createdAt": 20181101
+            },
+            {
+              "id": 20673,
+              "income": 53,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 71837,
+          "propertyName": "Rosalia",
+          "payments": [
+            {
+              "id": 70076,
+              "income": 97,
+              "cost": 18,
+              "createdAt": 20180101
+            },
+            {
+              "id": 46515,
+              "income": 93,
+              "cost": 5,
+              "createdAt": 20180201
+            },
+            {
+              "id": 98586,
+              "income": 64,
+              "cost": 6,
+              "createdAt": 20180301
+            },
+            {
+              "id": 75801,
+              "income": 28,
+              "cost": 20,
+              "createdAt": 20180401
+            },
+            {
+              "id": 30994,
+              "income": 52,
+              "cost": 13,
+              "createdAt": 20180501
+            },
+            {
+              "id": 58192,
+              "income": 24,
+              "cost": 16,
+              "createdAt": 20180601
+            },
+            {
+              "id": 21139,
+              "income": 58,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 31995,
+              "income": 31,
+              "cost": 9,
+              "createdAt": 20180801
+            },
+            {
+              "id": 18964,
+              "income": 43,
+              "cost": 17,
+              "createdAt": 20180901
+            },
+            {
+              "id": 81720,
+              "income": 32,
+              "cost": 11,
+              "createdAt": 20181001
+            },
+            {
+              "id": 8200,
+              "income": 58,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 50745,
+              "income": 95,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 60472,
+          "propertyName": "Mable",
+          "payments": [
+            {
+              "id": 31196,
+              "income": 46,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 37723,
+              "income": 88,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 36411,
+              "income": 72,
+              "cost": 11,
+              "createdAt": 20180301
+            },
+            {
+              "id": 48951,
+              "income": 99,
+              "cost": 1,
+              "createdAt": 20180401
+            },
+            {
+              "id": 48969,
+              "income": 28,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 23264,
+              "income": 98,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 6179,
+              "income": 26,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 82168,
+              "income": 23,
+              "cost": 13,
+              "createdAt": 20180801
+            },
+            {
+              "id": 15587,
+              "income": 86,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 24774,
+              "income": 36,
+              "cost": 13,
+              "createdAt": 20181001
+            },
+            {
+              "id": 96849,
+              "income": 81,
+              "cost": 13,
+              "createdAt": 20181101
+            },
+            {
+              "id": 98317,
+              "income": 94,
+              "cost": 18,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 39637,
+          "propertyName": "Dina",
+          "payments": [
+            {
+              "id": 65866,
+              "income": 54,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 92591,
+              "income": 85,
+              "cost": 4,
+              "createdAt": 20180201
+            },
+            {
+              "id": 4748,
+              "income": 44,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 99812,
+              "income": 89,
+              "cost": 16,
+              "createdAt": 20180401
+            },
+            {
+              "id": 20913,
+              "income": 21,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 62343,
+              "income": 46,
+              "cost": 10,
+              "createdAt": 20180601
+            },
+            {
+              "id": 48411,
+              "income": 63,
+              "cost": 11,
+              "createdAt": 20180701
+            },
+            {
+              "id": 35530,
+              "income": 91,
+              "cost": 18,
+              "createdAt": 20180801
+            },
+            {
+              "id": 73427,
+              "income": 86,
+              "cost": 7,
+              "createdAt": 20180901
+            },
+            {
+              "id": 90913,
+              "income": 22,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 34321,
+              "income": 64,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 43796,
+              "income": 24,
+              "cost": 5,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 89339,
+          "propertyName": "Deven",
+          "payments": [
+            {
+              "id": 49875,
+              "income": 51,
+              "cost": 20,
+              "createdAt": 20180101
+            },
+            {
+              "id": 31683,
+              "income": 57,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 80630,
+              "income": 37,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 9417,
+              "income": 27,
+              "cost": 16,
+              "createdAt": 20180401
+            },
+            {
+              "id": 50191,
+              "income": 89,
+              "cost": 18,
+              "createdAt": 20180501
+            },
+            {
+              "id": 43464,
+              "income": 31,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 4447,
+              "income": 24,
+              "cost": 17,
+              "createdAt": 20180701
+            },
+            {
+              "id": 9702,
+              "income": 50,
+              "cost": 15,
+              "createdAt": 20180801
+            },
+            {
+              "id": 72126,
+              "income": 74,
+              "cost": 8,
+              "createdAt": 20180901
+            },
+            {
+              "id": 35191,
+              "income": 66,
+              "cost": 18,
+              "createdAt": 20181001
+            },
+            {
+              "id": 42252,
+              "income": 36,
+              "cost": 1,
+              "createdAt": 20181101
+            },
+            {
+              "id": 65385,
+              "income": 65,
+              "cost": 14,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 75795,
+          "propertyName": "Toni",
+          "payments": [
+            {
+              "id": 79422,
+              "income": 34,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 48532,
+              "income": 93,
+              "cost": 8,
+              "createdAt": 20180201
+            },
+            {
+              "id": 69460,
+              "income": 33,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 48572,
+              "income": 74,
+              "cost": 15,
+              "createdAt": 20180401
+            },
+            {
+              "id": 50770,
+              "income": 76,
+              "cost": 9,
+              "createdAt": 20180501
+            },
+            {
+              "id": 11546,
+              "income": 29,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 41960,
+              "income": 91,
+              "cost": 20,
+              "createdAt": 20180701
+            },
+            {
+              "id": 104,
+              "income": 25,
+              "cost": 8,
+              "createdAt": 20180801
+            },
+            {
+              "id": 23116,
+              "income": 84,
+              "cost": 18,
+              "createdAt": 20180901
+            },
+            {
+              "id": 37182,
+              "income": 48,
+              "cost": 11,
+              "createdAt": 20181001
+            },
+            {
+              "id": 88200,
+              "income": 85,
+              "cost": 19,
+              "createdAt": 20181101
+            },
+            {
+              "id": 11465,
+              "income": 71,
+              "cost": 20,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 17135,
+          "propertyName": "Sydnie",
+          "payments": [
+            {
+              "id": 77597,
+              "income": 26,
+              "cost": 13,
+              "createdAt": 20180101
+            },
+            {
+              "id": 71963,
+              "income": 52,
+              "cost": 13,
+              "createdAt": 20180201
+            },
+            {
+              "id": 59226,
+              "income": 72,
+              "cost": 4,
+              "createdAt": 20180301
+            },
+            {
+              "id": 9077,
+              "income": 41,
+              "cost": 3,
+              "createdAt": 20180401
+            },
+            {
+              "id": 49573,
+              "income": 69,
+              "cost": 17,
+              "createdAt": 20180501
+            },
+            {
+              "id": 62841,
+              "income": 89,
+              "cost": 8,
+              "createdAt": 20180601
+            },
+            {
+              "id": 12566,
+              "income": 41,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 79287,
+              "income": 74,
+              "cost": 19,
+              "createdAt": 20180801
+            },
+            {
+              "id": 27676,
+              "income": 94,
+              "cost": 15,
+              "createdAt": 20180901
+            },
+            {
+              "id": 70563,
+              "income": 66,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 65157,
+              "income": 80,
+              "cost": 12,
+              "createdAt": 20181101
+            },
+            {
+              "id": 20534,
+              "income": 57,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 21821,
+          "propertyName": "Arlo",
+          "payments": [
+            {
+              "id": 67550,
+              "income": 25,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 75463,
+              "income": 96,
+              "cost": 10,
+              "createdAt": 20180201
+            },
+            {
+              "id": 43280,
+              "income": 63,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 21692,
+              "income": 89,
+              "cost": 15,
+              "createdAt": 20180401
+            },
+            {
+              "id": 70294,
+              "income": 51,
+              "cost": 5,
+              "createdAt": 20180501
+            },
+            {
+              "id": 52925,
+              "income": 30,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 28136,
+              "income": 85,
+              "cost": 6,
+              "createdAt": 20180701
+            },
+            {
+              "id": 35644,
+              "income": 76,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 1420,
+              "income": 22,
+              "cost": 5,
+              "createdAt": 20180901
+            },
+            {
+              "id": 57396,
+              "income": 79,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 31858,
+              "income": 64,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 56193,
+              "income": 24,
+              "cost": 1,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 67123,
+          "propertyName": "Sigmund",
+          "payments": [
+            {
+              "id": 95627,
+              "income": 85,
+              "cost": 3,
+              "createdAt": 20180101
+            },
+            {
+              "id": 56418,
+              "income": 49,
+              "cost": 8,
+              "createdAt": 20180201
+            },
+            {
+              "id": 13101,
+              "income": 75,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 66474,
+              "income": 78,
+              "cost": 11,
+              "createdAt": 20180401
+            },
+            {
+              "id": 11839,
+              "income": 32,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 5372,
+              "income": 58,
+              "cost": 8,
+              "createdAt": 20180601
+            },
+            {
+              "id": 41179,
+              "income": 48,
+              "cost": 12,
+              "createdAt": 20180701
+            },
+            {
+              "id": 25559,
+              "income": 64,
+              "cost": 18,
+              "createdAt": 20180801
+            },
+            {
+              "id": 13343,
+              "income": 78,
+              "cost": 20,
+              "createdAt": 20180901
+            },
+            {
+              "id": 7603,
+              "income": 47,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 78203,
+              "income": 42,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 76585,
+              "income": 65,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 32021,
+          "propertyName": "Clarissa",
+          "payments": [
+            {
+              "id": 83471,
+              "income": 78,
+              "cost": 10,
+              "createdAt": 20180101
+            },
+            {
+              "id": 37344,
+              "income": 21,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 36694,
+              "income": 74,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 8568,
+              "income": 35,
+              "cost": 11,
+              "createdAt": 20180401
+            },
+            {
+              "id": 9849,
+              "income": 65,
+              "cost": 13,
+              "createdAt": 20180501
+            },
+            {
+              "id": 79157,
+              "income": 27,
+              "cost": 5,
+              "createdAt": 20180601
+            },
+            {
+              "id": 46788,
+              "income": 81,
+              "cost": 4,
+              "createdAt": 20180701
+            },
+            {
+              "id": 51004,
+              "income": 64,
+              "cost": 12,
+              "createdAt": 20180801
+            },
+            {
+              "id": 97569,
+              "income": 52,
+              "cost": 10,
+              "createdAt": 20180901
+            },
+            {
+              "id": 49027,
+              "income": 91,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 23058,
+              "income": 29,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 77480,
+              "income": 55,
+              "cost": 10,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 86555,
+          "propertyName": "Lilly",
+          "payments": [
+            {
+              "id": 91006,
+              "income": 67,
+              "cost": 18,
+              "createdAt": 20180101
+            },
+            {
+              "id": 31259,
+              "income": 53,
+              "cost": 10,
+              "createdAt": 20180201
+            },
+            {
+              "id": 65906,
+              "income": 62,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 16979,
+              "income": 34,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 38593,
+              "income": 29,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 5404,
+              "income": 31,
+              "cost": 15,
+              "createdAt": 20180601
+            },
+            {
+              "id": 67780,
+              "income": 28,
+              "cost": 16,
+              "createdAt": 20180701
+            },
+            {
+              "id": 58679,
+              "income": 55,
+              "cost": 2,
+              "createdAt": 20180801
+            },
+            {
+              "id": 42519,
+              "income": 99,
+              "cost": 3,
+              "createdAt": 20180901
+            },
+            {
+              "id": 76040,
+              "income": 45,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 69103,
+              "income": 28,
+              "cost": 6,
+              "createdAt": 20181101
+            },
+            {
+              "id": 84038,
+              "income": 84,
+              "cost": 16,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 79603,
+          "propertyName": "Henderson",
+          "payments": [
+            {
+              "id": 80716,
+              "income": 63,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 1305,
+              "income": 46,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 96356,
+              "income": 37,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 3987,
+              "income": 46,
+              "cost": 18,
+              "createdAt": 20180401
+            },
+            {
+              "id": 22975,
+              "income": 76,
+              "cost": 14,
+              "createdAt": 20180501
+            },
+            {
+              "id": 56591,
+              "income": 53,
+              "cost": 13,
+              "createdAt": 20180601
+            },
+            {
+              "id": 47507,
+              "income": 71,
+              "cost": 4,
+              "createdAt": 20180701
+            },
+            {
+              "id": 64455,
+              "income": 97,
+              "cost": 19,
+              "createdAt": 20180801
+            },
+            {
+              "id": 14204,
+              "income": 83,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 74533,
+              "income": 51,
+              "cost": 8,
+              "createdAt": 20181001
+            },
+            {
+              "id": 73204,
+              "income": 51,
+              "cost": 19,
+              "createdAt": 20181101
+            },
+            {
+              "id": 57236,
+              "income": 47,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 12727,
+          "propertyName": "Darren",
+          "payments": [
+            {
+              "id": 23277,
+              "income": 71,
+              "cost": 4,
+              "createdAt": 20180101
+            },
+            {
+              "id": 86497,
+              "income": 63,
+              "cost": 13,
+              "createdAt": 20180201
+            },
+            {
+              "id": 47241,
+              "income": 24,
+              "cost": 2,
+              "createdAt": 20180301
+            },
+            {
+              "id": 7931,
+              "income": 68,
+              "cost": 12,
+              "createdAt": 20180401
+            },
+            {
+              "id": 77524,
+              "income": 34,
+              "cost": 19,
+              "createdAt": 20180501
+            },
+            {
+              "id": 96459,
+              "income": 42,
+              "cost": 6,
+              "createdAt": 20180601
+            },
+            {
+              "id": 13614,
+              "income": 53,
+              "cost": 6,
+              "createdAt": 20180701
+            },
+            {
+              "id": 44369,
+              "income": 82,
+              "cost": 4,
+              "createdAt": 20180801
+            },
+            {
+              "id": 91322,
+              "income": 82,
+              "cost": 16,
+              "createdAt": 20180901
+            },
+            {
+              "id": 13236,
+              "income": 79,
+              "cost": 5,
+              "createdAt": 20181001
+            },
+            {
+              "id": 44716,
+              "income": 67,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 16790,
+              "income": 93,
+              "cost": 10,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 93145,
+          "propertyName": "Ronaldo",
+          "payments": [
+            {
+              "id": 48420,
+              "income": 34,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 9882,
+              "income": 27,
+              "cost": 17,
+              "createdAt": 20180201
+            },
+            {
+              "id": 94172,
+              "income": 51,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 88050,
+              "income": 33,
+              "cost": 17,
+              "createdAt": 20180401
+            },
+            {
+              "id": 68332,
+              "income": 77,
+              "cost": 14,
+              "createdAt": 20180501
+            },
+            {
+              "id": 35397,
+              "income": 58,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 65661,
+              "income": 64,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 93801,
+              "income": 28,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 83152,
+              "income": 31,
+              "cost": 12,
+              "createdAt": 20180901
+            },
+            {
+              "id": 63597,
+              "income": 76,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 27357,
+              "income": 63,
+              "cost": 8,
+              "createdAt": 20181101
+            },
+            {
+              "id": 61744,
+              "income": 37,
+              "cost": 3,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 56131,
+          "propertyName": "Emerald",
+          "payments": [
+            {
+              "id": 14375,
+              "income": 65,
+              "cost": 5,
+              "createdAt": 20180101
+            },
+            {
+              "id": 60801,
+              "income": 42,
+              "cost": 1,
+              "createdAt": 20180201
+            },
+            {
+              "id": 99253,
+              "income": 65,
+              "cost": 14,
+              "createdAt": 20180301
+            },
+            {
+              "id": 82601,
+              "income": 29,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 13935,
+              "income": 67,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 37217,
+              "income": 43,
+              "cost": 1,
+              "createdAt": 20180601
+            },
+            {
+              "id": 70570,
+              "income": 65,
+              "cost": 18,
+              "createdAt": 20180701
+            },
+            {
+              "id": 48146,
+              "income": 56,
+              "cost": 4,
+              "createdAt": 20180801
+            },
+            {
+              "id": 68941,
+              "income": 64,
+              "cost": 11,
+              "createdAt": 20180901
+            },
+            {
+              "id": 10554,
+              "income": 45,
+              "cost": 8,
+              "createdAt": 20181001
+            },
+            {
+              "id": 20928,
+              "income": 51,
+              "cost": 15,
+              "createdAt": 20181101
+            },
+            {
+              "id": 69458,
+              "income": 92,
+              "cost": 18,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 73446,
+          "propertyName": "Lenore",
+          "payments": [
+            {
+              "id": 60231,
+              "income": 68,
+              "cost": 14,
+              "createdAt": 20180101
+            },
+            {
+              "id": 10968,
+              "income": 54,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 62958,
+              "income": 88,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 70537,
+              "income": 73,
+              "cost": 14,
+              "createdAt": 20180401
+            },
+            {
+              "id": 87901,
+              "income": 66,
+              "cost": 17,
+              "createdAt": 20180501
+            },
+            {
+              "id": 25502,
+              "income": 88,
+              "cost": 10,
+              "createdAt": 20180601
+            },
+            {
+              "id": 24002,
+              "income": 20,
+              "cost": 9,
+              "createdAt": 20180701
+            },
+            {
+              "id": 30932,
+              "income": 50,
+              "cost": 15,
+              "createdAt": 20180801
+            },
+            {
+              "id": 64949,
+              "income": 40,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 41848,
+              "income": 25,
+              "cost": 4,
+              "createdAt": 20181001
+            },
+            {
+              "id": 89700,
+              "income": 61,
+              "cost": 4,
+              "createdAt": 20181101
+            },
+            {
+              "id": 72086,
+              "income": 35,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 10838,
+          "propertyName": "Duane",
+          "payments": [
+            {
+              "id": 72954,
+              "income": 45,
+              "cost": 7,
+              "createdAt": 20180101
+            },
+            {
+              "id": 42871,
+              "income": 53,
+              "cost": 3,
+              "createdAt": 20180201
+            },
+            {
+              "id": 83735,
+              "income": 80,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 64030,
+              "income": 30,
+              "cost": 17,
+              "createdAt": 20180401
+            },
+            {
+              "id": 57008,
+              "income": 33,
+              "cost": 19,
+              "createdAt": 20180501
+            },
+            {
+              "id": 1448,
+              "income": 59,
+              "cost": 16,
+              "createdAt": 20180601
+            },
+            {
+              "id": 29973,
+              "income": 100,
+              "cost": 16,
+              "createdAt": 20180701
+            },
+            {
+              "id": 51190,
+              "income": 59,
+              "cost": 2,
+              "createdAt": 20180801
+            },
+            {
+              "id": 2230,
+              "income": 67,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 41975,
+              "income": 96,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 52682,
+              "income": 62,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 69019,
+              "income": 40,
+              "cost": 13,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 50473,
+          "propertyName": "Taylor",
+          "payments": [
+            {
+              "id": 36821,
+              "income": 21,
+              "cost": 17,
+              "createdAt": 20180101
+            },
+            {
+              "id": 83849,
+              "income": 58,
+              "cost": 5,
+              "createdAt": 20180201
+            },
+            {
+              "id": 27038,
+              "income": 44,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 6552,
+              "income": 39,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 29713,
+              "income": 75,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 45162,
+              "income": 47,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 12067,
+              "income": 98,
+              "cost": 19,
+              "createdAt": 20180701
+            },
+            {
+              "id": 46160,
+              "income": 72,
+              "cost": 8,
+              "createdAt": 20180801
+            },
+            {
+              "id": 25210,
+              "income": 49,
+              "cost": 20,
+              "createdAt": 20180901
+            },
+            {
+              "id": 1083,
+              "income": 48,
+              "cost": 17,
+              "createdAt": 20181001
+            },
+            {
+              "id": 88148,
+              "income": 73,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 55884,
+              "income": 60,
+              "cost": 7,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 51589,
+          "propertyName": "Josue",
+          "payments": [
+            {
+              "id": 80426,
+              "income": 91,
+              "cost": 2,
+              "createdAt": 20180101
+            },
+            {
+              "id": 39534,
+              "income": 63,
+              "cost": 3,
+              "createdAt": 20180201
+            },
+            {
+              "id": 6980,
+              "income": 24,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 81478,
+              "income": 100,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 74167,
+              "income": 85,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 82569,
+              "income": 35,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 71247,
+              "income": 98,
+              "cost": 3,
+              "createdAt": 20180701
+            },
+            {
+              "id": 64675,
+              "income": 42,
+              "cost": 20,
+              "createdAt": 20180801
+            },
+            {
+              "id": 96073,
+              "income": 59,
+              "cost": 9,
+              "createdAt": 20180901
+            },
+            {
+              "id": 86163,
+              "income": 87,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 28841,
+              "income": 34,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 88581,
+              "income": 70,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 52390,
+          "propertyName": "Vivien",
+          "payments": [
+            {
+              "id": 9122,
+              "income": 33,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 14210,
+              "income": 76,
+              "cost": 2,
+              "createdAt": 20180201
+            },
+            {
+              "id": 10536,
+              "income": 39,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 84772,
+              "income": 35,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 58233,
+              "income": 23,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 8161,
+              "income": 39,
+              "cost": 12,
+              "createdAt": 20180601
+            },
+            {
+              "id": 1880,
+              "income": 83,
+              "cost": 9,
+              "createdAt": 20180701
+            },
+            {
+              "id": 33670,
+              "income": 89,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 44320,
+              "income": 82,
+              "cost": 3,
+              "createdAt": 20180901
+            },
+            {
+              "id": 85340,
+              "income": 72,
+              "cost": 13,
+              "createdAt": 20181001
+            },
+            {
+              "id": 53055,
+              "income": 93,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 88713,
+              "income": 95,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        }
+      ],
+      "createdAt": 20180101
+    },
+    {
+      "id": 72887,
+      "properties": [
+        {
+          "id": 81654,
+          "propertyName": "Earlene",
+          "payments": [
+            {
+              "id": 30085,
+              "income": 68,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 267,
+              "income": 75,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 85728,
+              "income": 81,
+              "cost": 4,
+              "createdAt": 20180301
+            },
+            {
+              "id": 48110,
+              "income": 25,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 46647,
+              "income": 50,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 60249,
+              "income": 100,
+              "cost": 1,
+              "createdAt": 20180601
+            },
+            {
+              "id": 65973,
+              "income": 32,
+              "cost": 11,
+              "createdAt": 20180701
+            },
+            {
+              "id": 55354,
+              "income": 66,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 97728,
+              "income": 79,
+              "cost": 20,
+              "createdAt": 20180901
+            },
+            {
+              "id": 90444,
+              "income": 86,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 17252,
+              "income": 52,
+              "cost": 12,
+              "createdAt": 20181101
+            },
+            {
+              "id": 89536,
+              "income": 66,
+              "cost": 11,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 99291,
+          "propertyName": "Carmella",
+          "payments": [
+            {
+              "id": 97472,
+              "income": 40,
+              "cost": 9,
+              "createdAt": 20180101
+            },
+            {
+              "id": 26355,
+              "income": 86,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 3009,
+              "income": 55,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 42156,
+              "income": 33,
+              "cost": 7,
+              "createdAt": 20180401
+            },
+            {
+              "id": 22937,
+              "income": 68,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 11150,
+              "income": 34,
+              "cost": 10,
+              "createdAt": 20180601
+            },
+            {
+              "id": 46256,
+              "income": 99,
+              "cost": 15,
+              "createdAt": 20180701
+            },
+            {
+              "id": 45256,
+              "income": 21,
+              "cost": 12,
+              "createdAt": 20180801
+            },
+            {
+              "id": 35023,
+              "income": 86,
+              "cost": 7,
+              "createdAt": 20180901
+            },
+            {
+              "id": 35239,
+              "income": 56,
+              "cost": 18,
+              "createdAt": 20181001
+            },
+            {
+              "id": 89442,
+              "income": 72,
+              "cost": 11,
+              "createdAt": 20181101
+            },
+            {
+              "id": 92609,
+              "income": 64,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 58361,
+          "propertyName": "Camryn",
+          "payments": [
+            {
+              "id": 97036,
+              "income": 63,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 52816,
+              "income": 41,
+              "cost": 7,
+              "createdAt": 20180201
+            },
+            {
+              "id": 57555,
+              "income": 74,
+              "cost": 16,
+              "createdAt": 20180301
+            },
+            {
+              "id": 73249,
+              "income": 40,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 69287,
+              "income": 78,
+              "cost": 18,
+              "createdAt": 20180501
+            },
+            {
+              "id": 33548,
+              "income": 47,
+              "cost": 7,
+              "createdAt": 20180601
+            },
+            {
+              "id": 41459,
+              "income": 64,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 98683,
+              "income": 45,
+              "cost": 9,
+              "createdAt": 20180801
+            },
+            {
+              "id": 78796,
+              "income": 20,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 42097,
+              "income": 100,
+              "cost": 17,
+              "createdAt": 20181001
+            },
+            {
+              "id": 35214,
+              "income": 49,
+              "cost": 18,
+              "createdAt": 20181101
+            },
+            {
+              "id": 85310,
+              "income": 88,
+              "cost": 20,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 97714,
+          "propertyName": "Alfonso",
+          "payments": [
+            {
+              "id": 40695,
+              "income": 77,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 70621,
+              "income": 85,
+              "cost": 8,
+              "createdAt": 20180201
+            },
+            {
+              "id": 65901,
+              "income": 40,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 70000,
+              "income": 83,
+              "cost": 19,
+              "createdAt": 20180401
+            },
+            {
+              "id": 3026,
+              "income": 98,
+              "cost": 5,
+              "createdAt": 20180501
+            },
+            {
+              "id": 9051,
+              "income": 51,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 9552,
+              "income": 44,
+              "cost": 20,
+              "createdAt": 20180701
+            },
+            {
+              "id": 40869,
+              "income": 45,
+              "cost": 3,
+              "createdAt": 20180801
+            },
+            {
+              "id": 18233,
+              "income": 97,
+              "cost": 2,
+              "createdAt": 20180901
+            },
+            {
+              "id": 6264,
+              "income": 26,
+              "cost": 20,
+              "createdAt": 20181001
+            },
+            {
+              "id": 93436,
+              "income": 30,
+              "cost": 11,
+              "createdAt": 20181101
+            },
+            {
+              "id": 65531,
+              "income": 45,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 17892,
+          "propertyName": "Jordyn",
+          "payments": [
+            {
+              "id": 78835,
+              "income": 94,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 4645,
+              "income": 90,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 40395,
+              "income": 23,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 27923,
+              "income": 46,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 41810,
+              "income": 43,
+              "cost": 14,
+              "createdAt": 20180501
+            },
+            {
+              "id": 5319,
+              "income": 34,
+              "cost": 20,
+              "createdAt": 20180601
+            },
+            {
+              "id": 75935,
+              "income": 87,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 54444,
+              "income": 66,
+              "cost": 1,
+              "createdAt": 20180801
+            },
+            {
+              "id": 18547,
+              "income": 31,
+              "cost": 3,
+              "createdAt": 20180901
+            },
+            {
+              "id": 76033,
+              "income": 29,
+              "cost": 10,
+              "createdAt": 20181001
+            },
+            {
+              "id": 23081,
+              "income": 21,
+              "cost": 20,
+              "createdAt": 20181101
+            },
+            {
+              "id": 22596,
+              "income": 26,
+              "cost": 11,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 92001,
+          "propertyName": "Braeden",
+          "payments": [
+            {
+              "id": 3317,
+              "income": 63,
+              "cost": 2,
+              "createdAt": 20180101
+            },
+            {
+              "id": 2918,
+              "income": 23,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 27129,
+              "income": 58,
+              "cost": 4,
+              "createdAt": 20180301
+            },
+            {
+              "id": 76566,
+              "income": 100,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 2615,
+              "income": 88,
+              "cost": 7,
+              "createdAt": 20180501
+            },
+            {
+              "id": 2007,
+              "income": 82,
+              "cost": 1,
+              "createdAt": 20180601
+            },
+            {
+              "id": 34864,
+              "income": 73,
+              "cost": 8,
+              "createdAt": 20180701
+            },
+            {
+              "id": 50312,
+              "income": 71,
+              "cost": 19,
+              "createdAt": 20180801
+            },
+            {
+              "id": 99036,
+              "income": 71,
+              "cost": 16,
+              "createdAt": 20180901
+            },
+            {
+              "id": 60436,
+              "income": 95,
+              "cost": 8,
+              "createdAt": 20181001
+            },
+            {
+              "id": 62679,
+              "income": 61,
+              "cost": 12,
+              "createdAt": 20181101
+            },
+            {
+              "id": 69818,
+              "income": 67,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 36790,
+          "propertyName": "Rashawn",
+          "payments": [
+            {
+              "id": 80679,
+              "income": 29,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 90840,
+              "income": 40,
+              "cost": 2,
+              "createdAt": 20180201
+            },
+            {
+              "id": 63580,
+              "income": 98,
+              "cost": 5,
+              "createdAt": 20180301
+            },
+            {
+              "id": 23333,
+              "income": 51,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 18743,
+              "income": 76,
+              "cost": 9,
+              "createdAt": 20180501
+            },
+            {
+              "id": 69737,
+              "income": 95,
+              "cost": 2,
+              "createdAt": 20180601
+            },
+            {
+              "id": 67010,
+              "income": 26,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 19435,
+              "income": 67,
+              "cost": 4,
+              "createdAt": 20180801
+            },
+            {
+              "id": 95363,
+              "income": 39,
+              "cost": 1,
+              "createdAt": 20180901
+            },
+            {
+              "id": 42367,
+              "income": 32,
+              "cost": 20,
+              "createdAt": 20181001
+            },
+            {
+              "id": 87153,
+              "income": 42,
+              "cost": 15,
+              "createdAt": 20181101
+            },
+            {
+              "id": 33349,
+              "income": 97,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 99318,
+          "propertyName": "Fermin",
+          "payments": [
+            {
+              "id": 90426,
+              "income": 92,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 71269,
+              "income": 48,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 33881,
+              "income": 25,
+              "cost": 16,
+              "createdAt": 20180301
+            },
+            {
+              "id": 89681,
+              "income": 32,
+              "cost": 19,
+              "createdAt": 20180401
+            },
+            {
+              "id": 16367,
+              "income": 98,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 25871,
+              "income": 95,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 75093,
+              "income": 57,
+              "cost": 1,
+              "createdAt": 20180701
+            },
+            {
+              "id": 68422,
+              "income": 49,
+              "cost": 7,
+              "createdAt": 20180801
+            },
+            {
+              "id": 36966,
+              "income": 46,
+              "cost": 7,
+              "createdAt": 20180901
+            },
+            {
+              "id": 3999,
+              "income": 91,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 75206,
+              "income": 24,
+              "cost": 18,
+              "createdAt": 20181101
+            },
+            {
+              "id": 44776,
+              "income": 26,
+              "cost": 13,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 61998,
+          "propertyName": "Alfred",
+          "payments": [
+            {
+              "id": 874,
+              "income": 58,
+              "cost": 6,
+              "createdAt": 20180101
+            },
+            {
+              "id": 28061,
+              "income": 96,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 296,
+              "income": 33,
+              "cost": 2,
+              "createdAt": 20180301
+            },
+            {
+              "id": 21764,
+              "income": 74,
+              "cost": 16,
+              "createdAt": 20180401
+            },
+            {
+              "id": 93019,
+              "income": 63,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 92623,
+              "income": 61,
+              "cost": 9,
+              "createdAt": 20180601
+            },
+            {
+              "id": 21267,
+              "income": 37,
+              "cost": 16,
+              "createdAt": 20180701
+            },
+            {
+              "id": 84057,
+              "income": 81,
+              "cost": 20,
+              "createdAt": 20180801
+            },
+            {
+              "id": 79961,
+              "income": 79,
+              "cost": 14,
+              "createdAt": 20180901
+            },
+            {
+              "id": 38313,
+              "income": 89,
+              "cost": 15,
+              "createdAt": 20181001
+            },
+            {
+              "id": 74405,
+              "income": 92,
+              "cost": 14,
+              "createdAt": 20181101
+            },
+            {
+              "id": 81505,
+              "income": 94,
+              "cost": 11,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 80812,
+          "propertyName": "Eda",
+          "payments": [
+            {
+              "id": 66118,
+              "income": 34,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 76286,
+              "income": 74,
+              "cost": 2,
+              "createdAt": 20180201
+            },
+            {
+              "id": 7066,
+              "income": 77,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 37820,
+              "income": 61,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 87875,
+              "income": 52,
+              "cost": 17,
+              "createdAt": 20180501
+            },
+            {
+              "id": 10220,
+              "income": 77,
+              "cost": 17,
+              "createdAt": 20180601
+            },
+            {
+              "id": 10580,
+              "income": 41,
+              "cost": 10,
+              "createdAt": 20180701
+            },
+            {
+              "id": 35094,
+              "income": 87,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 20804,
+              "income": 73,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 98252,
+              "income": 54,
+              "cost": 15,
+              "createdAt": 20181001
+            },
+            {
+              "id": 26040,
+              "income": 91,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 51574,
+              "income": 86,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 3311,
+          "propertyName": "Nadia",
+          "payments": [
+            {
+              "id": 21834,
+              "income": 40,
+              "cost": 20,
+              "createdAt": 20180101
+            },
+            {
+              "id": 27517,
+              "income": 49,
+              "cost": 1,
+              "createdAt": 20180201
+            },
+            {
+              "id": 76317,
+              "income": 96,
+              "cost": 15,
+              "createdAt": 20180301
+            },
+            {
+              "id": 98962,
+              "income": 28,
+              "cost": 19,
+              "createdAt": 20180401
+            },
+            {
+              "id": 8366,
+              "income": 48,
+              "cost": 3,
+              "createdAt": 20180501
+            },
+            {
+              "id": 46063,
+              "income": 64,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 16312,
+              "income": 34,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 34541,
+              "income": 77,
+              "cost": 10,
+              "createdAt": 20180801
+            },
+            {
+              "id": 49401,
+              "income": 58,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 77592,
+              "income": 28,
+              "cost": 5,
+              "createdAt": 20181001
+            },
+            {
+              "id": 28524,
+              "income": 29,
+              "cost": 10,
+              "createdAt": 20181101
+            },
+            {
+              "id": 4801,
+              "income": 76,
+              "cost": 12,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 62212,
+          "propertyName": "Bradford",
+          "payments": [
+            {
+              "id": 91256,
+              "income": 29,
+              "cost": 4,
+              "createdAt": 20180101
+            },
+            {
+              "id": 682,
+              "income": 73,
+              "cost": 5,
+              "createdAt": 20180201
+            },
+            {
+              "id": 68414,
+              "income": 77,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 30994,
+              "income": 71,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 21339,
+              "income": 24,
+              "cost": 12,
+              "createdAt": 20180501
+            },
+            {
+              "id": 41330,
+              "income": 87,
+              "cost": 2,
+              "createdAt": 20180601
+            },
+            {
+              "id": 14104,
+              "income": 86,
+              "cost": 17,
+              "createdAt": 20180701
+            },
+            {
+              "id": 77592,
+              "income": 76,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 96530,
+              "income": 48,
+              "cost": 17,
+              "createdAt": 20180901
+            },
+            {
+              "id": 35997,
+              "income": 57,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 57835,
+              "income": 49,
+              "cost": 4,
+              "createdAt": 20181101
+            },
+            {
+              "id": 43021,
+              "income": 23,
+              "cost": 1,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 90071,
+          "propertyName": "Fannie",
+          "payments": [
+            {
+              "id": 95511,
+              "income": 69,
+              "cost": 10,
+              "createdAt": 20180101
+            },
+            {
+              "id": 56253,
+              "income": 49,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 28003,
+              "income": 52,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 49140,
+              "income": 51,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 27022,
+              "income": 33,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 17627,
+              "income": 90,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 7497,
+              "income": 48,
+              "cost": 12,
+              "createdAt": 20180701
+            },
+            {
+              "id": 28622,
+              "income": 66,
+              "cost": 13,
+              "createdAt": 20180801
+            },
+            {
+              "id": 81633,
+              "income": 51,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 65297,
+              "income": 97,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 72276,
+              "income": 47,
+              "cost": 16,
+              "createdAt": 20181101
+            },
+            {
+              "id": 19809,
+              "income": 84,
+              "cost": 9,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 64025,
+          "propertyName": "Mariam",
+          "payments": [
+            {
+              "id": 6928,
+              "income": 29,
+              "cost": 11,
+              "createdAt": 20180101
+            },
+            {
+              "id": 68632,
+              "income": 87,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 66671,
+              "income": 51,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 40295,
+              "income": 53,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 50586,
+              "income": 73,
+              "cost": 7,
+              "createdAt": 20180501
+            },
+            {
+              "id": 7825,
+              "income": 39,
+              "cost": 13,
+              "createdAt": 20180601
+            },
+            {
+              "id": 73949,
+              "income": 79,
+              "cost": 19,
+              "createdAt": 20180701
+            },
+            {
+              "id": 37757,
+              "income": 28,
+              "cost": 8,
+              "createdAt": 20180801
+            },
+            {
+              "id": 59653,
+              "income": 92,
+              "cost": 14,
+              "createdAt": 20180901
+            },
+            {
+              "id": 71882,
+              "income": 24,
+              "cost": 4,
+              "createdAt": 20181001
+            },
+            {
+              "id": 57864,
+              "income": 97,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 61816,
+              "income": 51,
+              "cost": 5,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 48698,
+          "propertyName": "Jeramy",
+          "payments": [
+            {
+              "id": 6490,
+              "income": 83,
+              "cost": 7,
+              "createdAt": 20180101
+            },
+            {
+              "id": 36242,
+              "income": 23,
+              "cost": 10,
+              "createdAt": 20180201
+            },
+            {
+              "id": 44955,
+              "income": 88,
+              "cost": 13,
+              "createdAt": 20180301
+            },
+            {
+              "id": 67455,
+              "income": 27,
+              "cost": 14,
+              "createdAt": 20180401
+            },
+            {
+              "id": 42173,
+              "income": 75,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 88230,
+              "income": 95,
+              "cost": 5,
+              "createdAt": 20180601
+            },
+            {
+              "id": 83681,
+              "income": 82,
+              "cost": 2,
+              "createdAt": 20180701
+            },
+            {
+              "id": 43837,
+              "income": 93,
+              "cost": 9,
+              "createdAt": 20180801
+            },
+            {
+              "id": 10964,
+              "income": 45,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 5066,
+              "income": 57,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 92990,
+              "income": 53,
+              "cost": 4,
+              "createdAt": 20181101
+            },
+            {
+              "id": 18476,
+              "income": 44,
+              "cost": 4,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 47935,
+          "propertyName": "Thad",
+          "payments": [
+            {
+              "id": 59610,
+              "income": 55,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 17049,
+              "income": 49,
+              "cost": 1,
+              "createdAt": 20180201
+            },
+            {
+              "id": 41114,
+              "income": 44,
+              "cost": 5,
+              "createdAt": 20180301
+            },
+            {
+              "id": 86740,
+              "income": 68,
+              "cost": 19,
+              "createdAt": 20180401
+            },
+            {
+              "id": 6746,
+              "income": 46,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 34578,
+              "income": 50,
+              "cost": 12,
+              "createdAt": 20180601
+            },
+            {
+              "id": 29114,
+              "income": 94,
+              "cost": 2,
+              "createdAt": 20180701
+            },
+            {
+              "id": 59208,
+              "income": 48,
+              "cost": 11,
+              "createdAt": 20180801
+            },
+            {
+              "id": 72393,
+              "income": 61,
+              "cost": 11,
+              "createdAt": 20180901
+            },
+            {
+              "id": 803,
+              "income": 39,
+              "cost": 14,
+              "createdAt": 20181001
+            },
+            {
+              "id": 71952,
+              "income": 80,
+              "cost": 6,
+              "createdAt": 20181101
+            },
+            {
+              "id": 92846,
+              "income": 35,
+              "cost": 20,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 36323,
+          "propertyName": "Armando",
+          "payments": [
+            {
+              "id": 39386,
+              "income": 21,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 12124,
+              "income": 96,
+              "cost": 6,
+              "createdAt": 20180201
+            },
+            {
+              "id": 41556,
+              "income": 44,
+              "cost": 16,
+              "createdAt": 20180301
+            },
+            {
+              "id": 41079,
+              "income": 68,
+              "cost": 12,
+              "createdAt": 20180401
+            },
+            {
+              "id": 37358,
+              "income": 76,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 40239,
+              "income": 94,
+              "cost": 8,
+              "createdAt": 20180601
+            },
+            {
+              "id": 38808,
+              "income": 47,
+              "cost": 7,
+              "createdAt": 20180701
+            },
+            {
+              "id": 36064,
+              "income": 41,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 68730,
+              "income": 44,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 50851,
+              "income": 100,
+              "cost": 18,
+              "createdAt": 20181001
+            },
+            {
+              "id": 62575,
+              "income": 62,
+              "cost": 13,
+              "createdAt": 20181101
+            },
+            {
+              "id": 80223,
+              "income": 33,
+              "cost": 5,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 8146,
+          "propertyName": "Efren",
+          "payments": [
+            {
+              "id": 72659,
+              "income": 54,
+              "cost": 14,
+              "createdAt": 20180101
+            },
+            {
+              "id": 18220,
+              "income": 30,
+              "cost": 5,
+              "createdAt": 20180201
+            },
+            {
+              "id": 70526,
+              "income": 30,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 82420,
+              "income": 62,
+              "cost": 15,
+              "createdAt": 20180401
+            },
+            {
+              "id": 26843,
+              "income": 90,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 27696,
+              "income": 65,
+              "cost": 17,
+              "createdAt": 20180601
+            },
+            {
+              "id": 65545,
+              "income": 46,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 34333,
+              "income": 26,
+              "cost": 16,
+              "createdAt": 20180801
+            },
+            {
+              "id": 59521,
+              "income": 49,
+              "cost": 16,
+              "createdAt": 20180901
+            },
+            {
+              "id": 86289,
+              "income": 59,
+              "cost": 10,
+              "createdAt": 20181001
+            },
+            {
+              "id": 95914,
+              "income": 67,
+              "cost": 7,
+              "createdAt": 20181101
+            },
+            {
+              "id": 79044,
+              "income": 24,
+              "cost": 12,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 53084,
+          "propertyName": "Finn",
+          "payments": [
+            {
+              "id": 3970,
+              "income": 60,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 75467,
+              "income": 68,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 40903,
+              "income": 92,
+              "cost": 14,
+              "createdAt": 20180301
+            },
+            {
+              "id": 1853,
+              "income": 61,
+              "cost": 3,
+              "createdAt": 20180401
+            },
+            {
+              "id": 98419,
+              "income": 93,
+              "cost": 18,
+              "createdAt": 20180501
+            },
+            {
+              "id": 76228,
+              "income": 95,
+              "cost": 7,
+              "createdAt": 20180601
+            },
+            {
+              "id": 84556,
+              "income": 55,
+              "cost": 19,
+              "createdAt": 20180701
+            },
+            {
+              "id": 77481,
+              "income": 45,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 29521,
+              "income": 81,
+              "cost": 5,
+              "createdAt": 20180901
+            },
+            {
+              "id": 83077,
+              "income": 60,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 93653,
+              "income": 63,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 66966,
+              "income": 28,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 66404,
+          "propertyName": "Karl",
+          "payments": [
+            {
+              "id": 31673,
+              "income": 87,
+              "cost": 4,
+              "createdAt": 20180101
+            },
+            {
+              "id": 41255,
+              "income": 83,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 7582,
+              "income": 49,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 7335,
+              "income": 35,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 31288,
+              "income": 97,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 65585,
+              "income": 79,
+              "cost": 16,
+              "createdAt": 20180601
+            },
+            {
+              "id": 12785,
+              "income": 71,
+              "cost": 18,
+              "createdAt": 20180701
+            },
+            {
+              "id": 18014,
+              "income": 29,
+              "cost": 9,
+              "createdAt": 20180801
+            },
+            {
+              "id": 89429,
+              "income": 50,
+              "cost": 8,
+              "createdAt": 20180901
+            },
+            {
+              "id": 46705,
+              "income": 77,
+              "cost": 18,
+              "createdAt": 20181001
+            },
+            {
+              "id": 30290,
+              "income": 65,
+              "cost": 16,
+              "createdAt": 20181101
+            },
+            {
+              "id": 5193,
+              "income": 96,
+              "cost": 20,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        }
+      ],
+      "createdAt": 20180101
+    },
+    {
+      "id": 16038,
+      "properties": [
+        {
+          "id": 65657,
+          "propertyName": "Andre",
+          "payments": [
+            {
+              "id": 99332,
+              "income": 84,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 85764,
+              "income": 95,
+              "cost": 20,
+              "createdAt": 20180201
+            },
+            {
+              "id": 48814,
+              "income": 91,
+              "cost": 20,
+              "createdAt": 20180301
+            },
+            {
+              "id": 82061,
+              "income": 77,
+              "cost": 14,
+              "createdAt": 20180401
+            },
+            {
+              "id": 35076,
+              "income": 86,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 99140,
+              "income": 89,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 84135,
+              "income": 36,
+              "cost": 1,
+              "createdAt": 20180701
+            },
+            {
+              "id": 73422,
+              "income": 65,
+              "cost": 16,
+              "createdAt": 20180801
+            },
+            {
+              "id": 76846,
+              "income": 77,
+              "cost": 13,
+              "createdAt": 20180901
+            },
+            {
+              "id": 7460,
+              "income": 51,
+              "cost": 10,
+              "createdAt": 20181001
+            },
+            {
+              "id": 20427,
+              "income": 64,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 77824,
+              "income": 27,
+              "cost": 15,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 30866,
+          "propertyName": "Bailey",
+          "payments": [
+            {
+              "id": 32709,
+              "income": 94,
+              "cost": 7,
+              "createdAt": 20180101
+            },
+            {
+              "id": 9197,
+              "income": 59,
+              "cost": 1,
+              "createdAt": 20180201
+            },
+            {
+              "id": 17,
+              "income": 32,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 38222,
+              "income": 52,
+              "cost": 10,
+              "createdAt": 20180401
+            },
+            {
+              "id": 83247,
+              "income": 90,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 81115,
+              "income": 30,
+              "cost": 2,
+              "createdAt": 20180601
+            },
+            {
+              "id": 46919,
+              "income": 22,
+              "cost": 16,
+              "createdAt": 20180701
+            },
+            {
+              "id": 63290,
+              "income": 65,
+              "cost": 8,
+              "createdAt": 20180801
+            },
+            {
+              "id": 68119,
+              "income": 90,
+              "cost": 10,
+              "createdAt": 20180901
+            },
+            {
+              "id": 3732,
+              "income": 54,
+              "cost": 2,
+              "createdAt": 20181001
+            },
+            {
+              "id": 7208,
+              "income": 28,
+              "cost": 7,
+              "createdAt": 20181101
+            },
+            {
+              "id": 51392,
+              "income": 81,
+              "cost": 10,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 44595,
+          "propertyName": "Aaron",
+          "payments": [
+            {
+              "id": 35775,
+              "income": 42,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 46185,
+              "income": 59,
+              "cost": 5,
+              "createdAt": 20180201
+            },
+            {
+              "id": 96793,
+              "income": 48,
+              "cost": 8,
+              "createdAt": 20180301
+            },
+            {
+              "id": 71596,
+              "income": 44,
+              "cost": 1,
+              "createdAt": 20180401
+            },
+            {
+              "id": 6079,
+              "income": 21,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 12523,
+              "income": 20,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 41693,
+              "income": 96,
+              "cost": 4,
+              "createdAt": 20180701
+            },
+            {
+              "id": 28445,
+              "income": 73,
+              "cost": 19,
+              "createdAt": 20180801
+            },
+            {
+              "id": 55139,
+              "income": 98,
+              "cost": 17,
+              "createdAt": 20180901
+            },
+            {
+              "id": 39249,
+              "income": 81,
+              "cost": 3,
+              "createdAt": 20181001
+            },
+            {
+              "id": 23978,
+              "income": 89,
+              "cost": 6,
+              "createdAt": 20181101
+            },
+            {
+              "id": 11760,
+              "income": 21,
+              "cost": 16,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 25735,
+          "propertyName": "Mollie",
+          "payments": [
+            {
+              "id": 55021,
+              "income": 72,
+              "cost": 10,
+              "createdAt": 20180101
+            },
+            {
+              "id": 51834,
+              "income": 76,
+              "cost": 6,
+              "createdAt": 20180201
+            },
+            {
+              "id": 2973,
+              "income": 42,
+              "cost": 2,
+              "createdAt": 20180301
+            },
+            {
+              "id": 55217,
+              "income": 34,
+              "cost": 14,
+              "createdAt": 20180401
+            },
+            {
+              "id": 90799,
+              "income": 84,
+              "cost": 8,
+              "createdAt": 20180501
+            },
+            {
+              "id": 12053,
+              "income": 90,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 95863,
+              "income": 31,
+              "cost": 13,
+              "createdAt": 20180701
+            },
+            {
+              "id": 37684,
+              "income": 49,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 10520,
+              "income": 44,
+              "cost": 8,
+              "createdAt": 20180901
+            },
+            {
+              "id": 56815,
+              "income": 89,
+              "cost": 5,
+              "createdAt": 20181001
+            },
+            {
+              "id": 8483,
+              "income": 32,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 33273,
+              "income": 74,
+              "cost": 7,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 20384,
+          "propertyName": "Keeley",
+          "payments": [
+            {
+              "id": 32086,
+              "income": 86,
+              "cost": 15,
+              "createdAt": 20180101
+            },
+            {
+              "id": 51919,
+              "income": 79,
+              "cost": 13,
+              "createdAt": 20180201
+            },
+            {
+              "id": 66489,
+              "income": 79,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 68881,
+              "income": 62,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 97160,
+              "income": 62,
+              "cost": 20,
+              "createdAt": 20180501
+            },
+            {
+              "id": 5084,
+              "income": 33,
+              "cost": 13,
+              "createdAt": 20180601
+            },
+            {
+              "id": 69971,
+              "income": 72,
+              "cost": 3,
+              "createdAt": 20180701
+            },
+            {
+              "id": 78042,
+              "income": 80,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 840,
+              "income": 66,
+              "cost": 17,
+              "createdAt": 20180901
+            },
+            {
+              "id": 23072,
+              "income": 44,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 77637,
+              "income": 53,
+              "cost": 6,
+              "createdAt": 20181101
+            },
+            {
+              "id": 70860,
+              "income": 59,
+              "cost": 5,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 24574,
+          "propertyName": "Lura",
+          "payments": [
+            {
+              "id": 19733,
+              "income": 30,
+              "cost": 5,
+              "createdAt": 20180101
+            },
+            {
+              "id": 49689,
+              "income": 61,
+              "cost": 14,
+              "createdAt": 20180201
+            },
+            {
+              "id": 8455,
+              "income": 25,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 88021,
+              "income": 60,
+              "cost": 8,
+              "createdAt": 20180401
+            },
+            {
+              "id": 40847,
+              "income": 74,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 86233,
+              "income": 24,
+              "cost": 4,
+              "createdAt": 20180601
+            },
+            {
+              "id": 63568,
+              "income": 30,
+              "cost": 1,
+              "createdAt": 20180701
+            },
+            {
+              "id": 68146,
+              "income": 47,
+              "cost": 10,
+              "createdAt": 20180801
+            },
+            {
+              "id": 20806,
+              "income": 100,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 35242,
+              "income": 56,
+              "cost": 13,
+              "createdAt": 20181001
+            },
+            {
+              "id": 24422,
+              "income": 28,
+              "cost": 1,
+              "createdAt": 20181101
+            },
+            {
+              "id": 27422,
+              "income": 74,
+              "cost": 1,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 3481,
+          "propertyName": "Lily",
+          "payments": [
+            {
+              "id": 63252,
+              "income": 60,
+              "cost": 6,
+              "createdAt": 20180101
+            },
+            {
+              "id": 87449,
+              "income": 69,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 86762,
+              "income": 59,
+              "cost": 20,
+              "createdAt": 20180301
+            },
+            {
+              "id": 94634,
+              "income": 33,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 88452,
+              "income": 25,
+              "cost": 1,
+              "createdAt": 20180501
+            },
+            {
+              "id": 90898,
+              "income": 88,
+              "cost": 2,
+              "createdAt": 20180601
+            },
+            {
+              "id": 95625,
+              "income": 24,
+              "cost": 20,
+              "createdAt": 20180701
+            },
+            {
+              "id": 60922,
+              "income": 92,
+              "cost": 3,
+              "createdAt": 20180801
+            },
+            {
+              "id": 14643,
+              "income": 31,
+              "cost": 9,
+              "createdAt": 20180901
+            },
+            {
+              "id": 29892,
+              "income": 84,
+              "cost": 6,
+              "createdAt": 20181001
+            },
+            {
+              "id": 75790,
+              "income": 54,
+              "cost": 17,
+              "createdAt": 20181101
+            },
+            {
+              "id": 54241,
+              "income": 57,
+              "cost": 7,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 10050,
+          "propertyName": "Rigoberto",
+          "payments": [
+            {
+              "id": 42837,
+              "income": 91,
+              "cost": 5,
+              "createdAt": 20180101
+            },
+            {
+              "id": 62111,
+              "income": 83,
+              "cost": 18,
+              "createdAt": 20180201
+            },
+            {
+              "id": 49518,
+              "income": 92,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 93243,
+              "income": 47,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 79099,
+              "income": 27,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 78196,
+              "income": 25,
+              "cost": 6,
+              "createdAt": 20180601
+            },
+            {
+              "id": 79300,
+              "income": 94,
+              "cost": 8,
+              "createdAt": 20180701
+            },
+            {
+              "id": 61474,
+              "income": 20,
+              "cost": 5,
+              "createdAt": 20180801
+            },
+            {
+              "id": 43468,
+              "income": 80,
+              "cost": 3,
+              "createdAt": 20180901
+            },
+            {
+              "id": 8846,
+              "income": 30,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 43444,
+              "income": 90,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 39383,
+              "income": 24,
+              "cost": 7,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 26157,
+          "propertyName": "Tyler",
+          "payments": [
+            {
+              "id": 76131,
+              "income": 79,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 8235,
+              "income": 98,
+              "cost": 10,
+              "createdAt": 20180201
+            },
+            {
+              "id": 96218,
+              "income": 61,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 49971,
+              "income": 62,
+              "cost": 2,
+              "createdAt": 20180401
+            },
+            {
+              "id": 92426,
+              "income": 50,
+              "cost": 18,
+              "createdAt": 20180501
+            },
+            {
+              "id": 62609,
+              "income": 34,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 94847,
+              "income": 40,
+              "cost": 15,
+              "createdAt": 20180701
+            },
+            {
+              "id": 37660,
+              "income": 65,
+              "cost": 3,
+              "createdAt": 20180801
+            },
+            {
+              "id": 40258,
+              "income": 50,
+              "cost": 11,
+              "createdAt": 20180901
+            },
+            {
+              "id": 26250,
+              "income": 46,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 90141,
+              "income": 54,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 10870,
+              "income": 42,
+              "cost": 18,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 96777,
+          "propertyName": "Shaun",
+          "payments": [
+            {
+              "id": 15917,
+              "income": 29,
+              "cost": 1,
+              "createdAt": 20180101
+            },
+            {
+              "id": 57594,
+              "income": 43,
+              "cost": 2,
+              "createdAt": 20180201
+            },
+            {
+              "id": 71093,
+              "income": 73,
+              "cost": 15,
+              "createdAt": 20180301
+            },
+            {
+              "id": 4536,
+              "income": 66,
+              "cost": 4,
+              "createdAt": 20180401
+            },
+            {
+              "id": 58881,
+              "income": 75,
+              "cost": 10,
+              "createdAt": 20180501
+            },
+            {
+              "id": 61554,
+              "income": 98,
+              "cost": 11,
+              "createdAt": 20180601
+            },
+            {
+              "id": 80051,
+              "income": 74,
+              "cost": 2,
+              "createdAt": 20180701
+            },
+            {
+              "id": 94823,
+              "income": 89,
+              "cost": 19,
+              "createdAt": 20180801
+            },
+            {
+              "id": 31684,
+              "income": 62,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 11106,
+              "income": 34,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 75645,
+              "income": 28,
+              "cost": 19,
+              "createdAt": 20181101
+            },
+            {
+              "id": 70875,
+              "income": 100,
+              "cost": 1,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 3119,
+          "propertyName": "Kaleigh",
+          "payments": [
+            {
+              "id": 49999,
+              "income": 57,
+              "cost": 5,
+              "createdAt": 20180101
+            },
+            {
+              "id": 60075,
+              "income": 24,
+              "cost": 9,
+              "createdAt": 20180201
+            },
+            {
+              "id": 41165,
+              "income": 43,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 21668,
+              "income": 52,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 25182,
+              "income": 81,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 45609,
+              "income": 51,
+              "cost": 19,
+              "createdAt": 20180601
+            },
+            {
+              "id": 27037,
+              "income": 94,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 42724,
+              "income": 22,
+              "cost": 8,
+              "createdAt": 20180801
+            },
+            {
+              "id": 36519,
+              "income": 58,
+              "cost": 17,
+              "createdAt": 20180901
+            },
+            {
+              "id": 30521,
+              "income": 71,
+              "cost": 18,
+              "createdAt": 20181001
+            },
+            {
+              "id": 67451,
+              "income": 57,
+              "cost": 8,
+              "createdAt": 20181101
+            },
+            {
+              "id": 69023,
+              "income": 67,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 75915,
+          "propertyName": "Aubrey",
+          "payments": [
+            {
+              "id": 18121,
+              "income": 81,
+              "cost": 19,
+              "createdAt": 20180101
+            },
+            {
+              "id": 85380,
+              "income": 60,
+              "cost": 3,
+              "createdAt": 20180201
+            },
+            {
+              "id": 86204,
+              "income": 66,
+              "cost": 6,
+              "createdAt": 20180301
+            },
+            {
+              "id": 57380,
+              "income": 78,
+              "cost": 7,
+              "createdAt": 20180401
+            },
+            {
+              "id": 67479,
+              "income": 55,
+              "cost": 9,
+              "createdAt": 20180501
+            },
+            {
+              "id": 54078,
+              "income": 96,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 50,
+              "income": 46,
+              "cost": 11,
+              "createdAt": 20180701
+            },
+            {
+              "id": 64670,
+              "income": 40,
+              "cost": 10,
+              "createdAt": 20180801
+            },
+            {
+              "id": 125,
+              "income": 43,
+              "cost": 17,
+              "createdAt": 20180901
+            },
+            {
+              "id": 1076,
+              "income": 79,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 27051,
+              "income": 63,
+              "cost": 3,
+              "createdAt": 20181101
+            },
+            {
+              "id": 61779,
+              "income": 76,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 93128,
+          "propertyName": "Tate",
+          "payments": [
+            {
+              "id": 42925,
+              "income": 78,
+              "cost": 4,
+              "createdAt": 20180101
+            },
+            {
+              "id": 45598,
+              "income": 41,
+              "cost": 12,
+              "createdAt": 20180201
+            },
+            {
+              "id": 57839,
+              "income": 57,
+              "cost": 6,
+              "createdAt": 20180301
+            },
+            {
+              "id": 28369,
+              "income": 31,
+              "cost": 19,
+              "createdAt": 20180401
+            },
+            {
+              "id": 26558,
+              "income": 70,
+              "cost": 4,
+              "createdAt": 20180501
+            },
+            {
+              "id": 31488,
+              "income": 90,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 10543,
+              "income": 87,
+              "cost": 8,
+              "createdAt": 20180701
+            },
+            {
+              "id": 94234,
+              "income": 22,
+              "cost": 20,
+              "createdAt": 20180801
+            },
+            {
+              "id": 27271,
+              "income": 94,
+              "cost": 14,
+              "createdAt": 20180901
+            },
+            {
+              "id": 2413,
+              "income": 57,
+              "cost": 19,
+              "createdAt": 20181001
+            },
+            {
+              "id": 70428,
+              "income": 92,
+              "cost": 5,
+              "createdAt": 20181101
+            },
+            {
+              "id": 39061,
+              "income": 96,
+              "cost": 6,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 71024,
+          "propertyName": "Ottilie",
+          "payments": [
+            {
+              "id": 20582,
+              "income": 54,
+              "cost": 16,
+              "createdAt": 20180101
+            },
+            {
+              "id": 3082,
+              "income": 39,
+              "cost": 6,
+              "createdAt": 20180201
+            },
+            {
+              "id": 95917,
+              "income": 37,
+              "cost": 1,
+              "createdAt": 20180301
+            },
+            {
+              "id": 76829,
+              "income": 49,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 70679,
+              "income": 21,
+              "cost": 9,
+              "createdAt": 20180501
+            },
+            {
+              "id": 92364,
+              "income": 36,
+              "cost": 6,
+              "createdAt": 20180601
+            },
+            {
+              "id": 11678,
+              "income": 46,
+              "cost": 8,
+              "createdAt": 20180701
+            },
+            {
+              "id": 58485,
+              "income": 36,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 42016,
+              "income": 92,
+              "cost": 5,
+              "createdAt": 20180901
+            },
+            {
+              "id": 87326,
+              "income": 38,
+              "cost": 7,
+              "createdAt": 20181001
+            },
+            {
+              "id": 9951,
+              "income": 81,
+              "cost": 18,
+              "createdAt": 20181101
+            },
+            {
+              "id": 20835,
+              "income": 30,
+              "cost": 19,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 68178,
+          "propertyName": "Alf",
+          "payments": [
+            {
+              "id": 96678,
+              "income": 90,
+              "cost": 9,
+              "createdAt": 20180101
+            },
+            {
+              "id": 43329,
+              "income": 66,
+              "cost": 7,
+              "createdAt": 20180201
+            },
+            {
+              "id": 16791,
+              "income": 87,
+              "cost": 9,
+              "createdAt": 20180301
+            },
+            {
+              "id": 19494,
+              "income": 85,
+              "cost": 13,
+              "createdAt": 20180401
+            },
+            {
+              "id": 58103,
+              "income": 56,
+              "cost": 19,
+              "createdAt": 20180501
+            },
+            {
+              "id": 63593,
+              "income": 74,
+              "cost": 19,
+              "createdAt": 20180601
+            },
+            {
+              "id": 81862,
+              "income": 58,
+              "cost": 5,
+              "createdAt": 20180701
+            },
+            {
+              "id": 22010,
+              "income": 95,
+              "cost": 6,
+              "createdAt": 20180801
+            },
+            {
+              "id": 98821,
+              "income": 88,
+              "cost": 6,
+              "createdAt": 20180901
+            },
+            {
+              "id": 85387,
+              "income": 51,
+              "cost": 20,
+              "createdAt": 20181001
+            },
+            {
+              "id": 72389,
+              "income": 73,
+              "cost": 19,
+              "createdAt": 20181101
+            },
+            {
+              "id": 74600,
+              "income": 96,
+              "cost": 18,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 40686,
+          "propertyName": "Mose",
+          "payments": [
+            {
+              "id": 44562,
+              "income": 63,
+              "cost": 12,
+              "createdAt": 20180101
+            },
+            {
+              "id": 28294,
+              "income": 76,
+              "cost": 4,
+              "createdAt": 20180201
+            },
+            {
+              "id": 79399,
+              "income": 27,
+              "cost": 10,
+              "createdAt": 20180301
+            },
+            {
+              "id": 21149,
+              "income": 58,
+              "cost": 9,
+              "createdAt": 20180401
+            },
+            {
+              "id": 52339,
+              "income": 62,
+              "cost": 9,
+              "createdAt": 20180501
+            },
+            {
+              "id": 18052,
+              "income": 87,
+              "cost": 14,
+              "createdAt": 20180601
+            },
+            {
+              "id": 33775,
+              "income": 84,
+              "cost": 20,
+              "createdAt": 20180701
+            },
+            {
+              "id": 14893,
+              "income": 51,
+              "cost": 19,
+              "createdAt": 20180801
+            },
+            {
+              "id": 32289,
+              "income": 53,
+              "cost": 18,
+              "createdAt": 20180901
+            },
+            {
+              "id": 36279,
+              "income": 82,
+              "cost": 2,
+              "createdAt": 20181001
+            },
+            {
+              "id": 75285,
+              "income": 97,
+              "cost": 8,
+              "createdAt": 20181101
+            },
+            {
+              "id": 88078,
+              "income": 92,
+              "cost": 2,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 54598,
+          "propertyName": "Forrest",
+          "payments": [
+            {
+              "id": 61651,
+              "income": 80,
+              "cost": 8,
+              "createdAt": 20180101
+            },
+            {
+              "id": 85967,
+              "income": 77,
+              "cost": 4,
+              "createdAt": 20180201
+            },
+            {
+              "id": 79733,
+              "income": 97,
+              "cost": 4,
+              "createdAt": 20180301
+            },
+            {
+              "id": 80553,
+              "income": 56,
+              "cost": 17,
+              "createdAt": 20180401
+            },
+            {
+              "id": 99832,
+              "income": 76,
+              "cost": 16,
+              "createdAt": 20180501
+            },
+            {
+              "id": 41814,
+              "income": 85,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 75543,
+              "income": 92,
+              "cost": 14,
+              "createdAt": 20180701
+            },
+            {
+              "id": 26951,
+              "income": 84,
+              "cost": 12,
+              "createdAt": 20180801
+            },
+            {
+              "id": 18901,
+              "income": 54,
+              "cost": 19,
+              "createdAt": 20180901
+            },
+            {
+              "id": 93860,
+              "income": 74,
+              "cost": 9,
+              "createdAt": 20181001
+            },
+            {
+              "id": 24137,
+              "income": 31,
+              "cost": 9,
+              "createdAt": 20181101
+            },
+            {
+              "id": 66240,
+              "income": 75,
+              "cost": 13,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 88478,
+          "propertyName": "Vivianne",
+          "payments": [
+            {
+              "id": 13889,
+              "income": 34,
+              "cost": 3,
+              "createdAt": 20180101
+            },
+            {
+              "id": 21183,
+              "income": 55,
+              "cost": 15,
+              "createdAt": 20180201
+            },
+            {
+              "id": 15569,
+              "income": 21,
+              "cost": 6,
+              "createdAt": 20180301
+            },
+            {
+              "id": 65278,
+              "income": 96,
+              "cost": 18,
+              "createdAt": 20180401
+            },
+            {
+              "id": 69315,
+              "income": 74,
+              "cost": 2,
+              "createdAt": 20180501
+            },
+            {
+              "id": 98557,
+              "income": 70,
+              "cost": 17,
+              "createdAt": 20180601
+            },
+            {
+              "id": 18047,
+              "income": 36,
+              "cost": 18,
+              "createdAt": 20180701
+            },
+            {
+              "id": 76848,
+              "income": 96,
+              "cost": 17,
+              "createdAt": 20180801
+            },
+            {
+              "id": 6762,
+              "income": 84,
+              "cost": 4,
+              "createdAt": 20180901
+            },
+            {
+              "id": 87464,
+              "income": 90,
+              "cost": 1,
+              "createdAt": 20181001
+            },
+            {
+              "id": 87893,
+              "income": 67,
+              "cost": 7,
+              "createdAt": 20181101
+            },
+            {
+              "id": 3049,
+              "income": 39,
+              "cost": 13,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 18627,
+          "propertyName": "Juliana",
+          "payments": [
+            {
+              "id": 53039,
+              "income": 64,
+              "cost": 3,
+              "createdAt": 20180101
+            },
+            {
+              "id": 43622,
+              "income": 43,
+              "cost": 8,
+              "createdAt": 20180201
+            },
+            {
+              "id": 33404,
+              "income": 39,
+              "cost": 18,
+              "createdAt": 20180301
+            },
+            {
+              "id": 63010,
+              "income": 43,
+              "cost": 14,
+              "createdAt": 20180401
+            },
+            {
+              "id": 79280,
+              "income": 69,
+              "cost": 15,
+              "createdAt": 20180501
+            },
+            {
+              "id": 74569,
+              "income": 43,
+              "cost": 18,
+              "createdAt": 20180601
+            },
+            {
+              "id": 603,
+              "income": 64,
+              "cost": 7,
+              "createdAt": 20180701
+            },
+            {
+              "id": 50005,
+              "income": 50,
+              "cost": 18,
+              "createdAt": 20180801
+            },
+            {
+              "id": 15572,
+              "income": 67,
+              "cost": 1,
+              "createdAt": 20180901
+            },
+            {
+              "id": 31052,
+              "income": 70,
+              "cost": 12,
+              "createdAt": 20181001
+            },
+            {
+              "id": 28614,
+              "income": 45,
+              "cost": 19,
+              "createdAt": 20181101
+            },
+            {
+              "id": 21111,
+              "income": 98,
+              "cost": 2,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        },
+        {
+          "id": 52263,
+          "propertyName": "Brandy",
+          "payments": [
+            {
+              "id": 9150,
+              "income": 23,
+              "cost": 1,
+              "createdAt": 20180101
+            },
+            {
+              "id": 30495,
+              "income": 55,
+              "cost": 8,
+              "createdAt": 20180201
+            },
+            {
+              "id": 10995,
+              "income": 62,
+              "cost": 7,
+              "createdAt": 20180301
+            },
+            {
+              "id": 1497,
+              "income": 25,
+              "cost": 5,
+              "createdAt": 20180401
+            },
+            {
+              "id": 34457,
+              "income": 100,
+              "cost": 10,
+              "createdAt": 20180501
+            },
+            {
+              "id": 98500,
+              "income": 50,
+              "cost": 20,
+              "createdAt": 20180601
+            },
+            {
+              "id": 89374,
+              "income": 68,
+              "cost": 3,
+              "createdAt": 20180701
+            },
+            {
+              "id": 55825,
+              "income": 29,
+              "cost": 14,
+              "createdAt": 20180801
+            },
+            {
+              "id": 82849,
+              "income": 34,
+              "cost": 12,
+              "createdAt": 20180901
+            },
+            {
+              "id": 41487,
+              "income": 38,
+              "cost": 16,
+              "createdAt": 20181001
+            },
+            {
+              "id": 26018,
+              "income": 27,
+              "cost": 2,
+              "createdAt": 20181101
+            },
+            {
+              "id": 19719,
+              "income": 69,
+              "cost": 8,
+              "createdAt": 20181201
+            }
+          ],
+          "createdAt": 20180101
+        }
+      ],
+      "createdAt": 20180101
+    }
+  ]
